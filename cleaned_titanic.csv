@@ -1,0 +1,892 @@
+,Passenger Id,Title,Firstname,Surename,Alias,Age,Gender,Family Size,Passenger Class,Ticket Prefix,Ticket Number,Cabin,Embarked,Paid Amount,Survived
+0,1,Mr,Owen Harris,Braund,No,22,male,1,3,A5,21171,B96 B98,Southampton,7.25,No
+1,2,Mrs,John Bradley,Cumings,Florence Briggs Thayer,38,female,1,1,PC,17599,C85,Cherbourg,65.634,Yes
+2,3,Miss,Laina,Heikkinen,No,26,female,1,3,STONO2,3101282,B96 B98,Southampton,7.925,Yes
+3,4,Mrs,Jacques Heath,Futrelle,Lily May Peel,35,female,2,1,NUM,113803,C123,Southampton,53.1,Yes
+4,5,Mr,William Henry,Allen,No,35,male,1,3,NUM,373450,B96 B98,Southampton,8.05,No
+5,6,Mr,James,Moran,No,30,male,1,3,NUM,330877,B96 B98,Queenstown,8.458,No
+6,7,Mr,Timothy J,McCarthy,No,54,male,1,1,NUM,17463,E46,Southampton,51.862,No
+7,8,Master,Gosta Leonard,Palsson,No,3,male,4,3,NUM,349909,B96 B98,Southampton,21.075,No
+8,9,Mrs,Oscar W,Johnson,Elisabeth Vilhelmina Berg,27,female,3,3,NUM,347742,B96 B98,Southampton,11.133,Yes
+9,10,Mrs,Nicholas,Nasser,Adele Achem,14,female,2,2,NUM,237736,B96 B98,Cherbourg,30.071,Yes
+10,11,Miss,Marguerite Rut,Sandstrom,No,4,female,2,3,PP,9549,G6,Southampton,16.7,Yes
+11,12,Miss,Elizabeth,Bonnell,No,54,female,1,1,NUM,113783,C103,Southampton,26.55,Yes
+12,13,Mr,William Henry,Saundercock,No,20,male,1,3,A5,2151,B96 B98,Southampton,8.05,No
+13,14,Mr,Anders Johan,Andersson,No,39,male,7,3,NUM,347082,B96 B98,Southampton,31.275,No
+14,15,Miss,Hulda Amanda Adolfina,Vestrom,No,14,female,1,3,NUM,350406,B96 B98,Southampton,7.854,No
+15,16,Mrs,,Hewlett,Mary D Kingcome,54,female,1,2,NUM,248706,B96 B98,Southampton,16.0,Yes
+16,17,Master,Eugene,Rice,No,3,male,5,3,NUM,382652,B96 B98,Queenstown,29.125,No
+17,18,Mr,Charles Eugene,Williams,No,30,male,1,2,NUM,244373,B96 B98,Southampton,13.0,Yes
+18,19,Mrs,Julius,Vander Planke,Emelia Maria Vandemoortele,31,female,1,3,NUM,345763,B96 B98,Southampton,18.0,No
+19,20,Mrs,Fatima,Masselmani,No,30,female,1,3,NUM,2649,B96 B98,Cherbourg,7.225,Yes
+20,21,Mr,Joseph J,Fynney,No,35,male,2,2,NUM,239865,B96 B98,Southampton,26.0,No
+21,22,Mr,Lawrence,Beesley,No,34,male,1,2,NUM,248698,D56,Southampton,13.0,Yes
+22,23,Miss,Anna,McGowan,Annie,15,female,1,3,NUM,330923,B96 B98,Queenstown,8.029,Yes
+23,24,Mr,William Thompson,Sloper,No,28,male,1,1,NUM,113788,A6,Southampton,35.5,Yes
+24,25,Miss,Torborg Danira,Palsson,No,8,female,4,3,NUM,349909,B96 B98,Southampton,21.075,No
+25,26,Mrs,Carl Oscar,Asplund,Selma Augusta Emilia Johansson,38,female,4,3,NUM,347077,B96 B98,Southampton,31.388,Yes
+26,27,Mr,Farred Chehab,Emir,No,30,male,1,3,NUM,2631,B96 B98,Cherbourg,7.225,No
+27,28,Mr,Charles Alexander,Fortune,No,19,male,4,1,NUM,19950,C23 C25 C27,Southampton,65.634,No
+28,29,Miss,Ellen,O'Dwyer,Nellie,30,female,1,3,NUM,330959,B96 B98,Queenstown,7.879,Yes
+29,30,Mr,Lalio,Todoroff,No,30,male,1,3,NUM,349216,B96 B98,Southampton,7.896,No
+30,31,Mr,Manuel E,Uruchurtu,No,40,male,1,1,PC,17601,B96 B98,Cherbourg,27.721,No
+31,32,Mrs,William Augustus,Spencer,Marie Eugenie,30,female,2,1,PC,17569,B78,Cherbourg,65.634,Yes
+32,33,Miss,Mary Agatha,Glynn,No,30,female,1,3,NUM,335677,B96 B98,Queenstown,7.75,Yes
+33,34,Mr,Edward H,Wheadon,No,54,male,1,2,CA,24579,B96 B98,Southampton,10.5,No
+34,35,Mr,Edgar Joseph,Meyer,No,28,male,2,1,PC,17604,B96 B98,Cherbourg,65.634,No
+35,36,Mr,Alexander Oskar,Holverson,No,42,male,2,1,NUM,113789,B96 B98,Southampton,52.0,No
+36,37,Mr,Hanna,Mamee,No,30,male,1,3,NUM,2677,B96 B98,Cherbourg,7.229,Yes
+37,38,Mr,Ernest Charles,Cann,No,21,male,1,3,A5,2152,B96 B98,Southampton,8.05,No
+38,39,Miss,Augusta Maria,Vander Planke,No,18,female,2,3,NUM,345764,B96 B98,Southampton,18.0,No
+39,40,Miss,Jamila,Nicola-Yarred,No,14,female,2,3,NUM,2651,B96 B98,Cherbourg,11.242,Yes
+40,41,Mrs,Johan,Ahlin,Johanna Persdotter Larsson,40,female,1,3,NUM,7546,B96 B98,Southampton,9.475,No
+41,42,Mrs,William John Robert,Turpin,Dorothy Ann Wonnacott,27,female,2,2,NUM,11668,B96 B98,Southampton,21.0,No
+42,43,Mr,Theodor,Kraeff,No,30,male,1,3,NUM,349253,B96 B98,Cherbourg,7.896,No
+43,44,Miss,Simonne Marie Anne Andree,Laroche,No,3,female,3,2,SCParis,2123,B96 B98,Cherbourg,41.579,Yes
+44,45,Miss,Margaret Delia,Devaney,No,19,female,1,3,NUM,330958,B96 B98,Queenstown,7.879,Yes
+45,46,Mr,William John,Rogers,No,30,male,1,3,SCA4,23567,B96 B98,Southampton,8.05,No
+46,47,Mr,Denis,Lennon,No,30,male,1,3,NUM,370371,B96 B98,Queenstown,15.5,No
+47,48,Miss,Bridget,O'Driscoll,No,30,female,1,3,NUM,14311,B96 B98,Queenstown,7.75,Yes
+48,49,Mr,Youssef,Samaan,No,30,male,1,3,NUM,2662,B96 B98,Cherbourg,21.679,No
+49,50,Mrs,Josef,Arnold-Franchi,Josefine Franchi,18,female,2,3,NUM,349237,B96 B98,Southampton,17.8,No
+50,51,Master,Juha Niilo,Panula,No,7,male,6,3,NUM,3101295,B96 B98,Southampton,39.688,No
+51,52,Mr,Richard Cater,Nosworthy,No,21,male,1,3,A4,39886,B96 B98,Southampton,7.8,No
+52,53,Mrs,Henry Sleeper,Harper,Myna Haxtun,49,female,3,1,PC,17572,D33,Cherbourg,65.634,Yes
+53,54,Mrs,Lizzie,Faunthorpe,Elizabeth Anne Wilkinson,29,female,1,2,NUM,2926,B96 B98,Southampton,26.0,Yes
+54,55,Mr,Engelhart Cornelius,Ostby,No,54,male,1,1,NUM,113509,B30,Cherbourg,61.979,No
+55,56,Mr,Hugh,Woolner,No,30,male,1,1,NUM,19947,C52,Southampton,35.5,Yes
+56,57,Miss,Emily,Rugg,No,21,female,1,2,CA,31026,B96 B98,Southampton,10.5,Yes
+57,58,Mr,Mansouer,Novel,No,28,male,1,3,NUM,2697,B96 B98,Cherbourg,7.229,No
+58,59,Miss,Constance Mirium,West,No,5,female,3,2,CA,34651,B96 B98,Southampton,27.75,Yes
+59,60,Master,William Frederick,Goodwin,No,11,male,6,3,CA,2144,B96 B98,Southampton,46.9,No
+60,61,Mr,Orsen,Sirayanian,No,22,male,1,3,NUM,2669,B96 B98,Cherbourg,7.229,No
+61,62,Miss,Amelie,Icard,No,38,female,2,1,NUM,113572,B28,Southampton,65.634,Yes
+62,63,Mr,Henry Birkhardt,Harris,No,45,male,2,1,NUM,36973,C83,Southampton,65.634,No
+63,64,Master,Harald,Skoog,No,4,male,6,3,NUM,347088,B96 B98,Southampton,27.9,No
+64,65,Mr,Albert A,Stewart,No,30,male,1,1,PC,17605,B96 B98,Cherbourg,27.721,No
+65,66,Master,Gerios,Moubarek,No,30,male,2,3,NUM,2661,B96 B98,Cherbourg,15.246,Yes
+66,67,Mrs,,Nye,Elizabeth Ramell,29,female,1,2,CA,29395,F33,Southampton,10.5,Yes
+67,68,Mr,Ernest James,Crease,No,19,male,1,3,SP,3464,B96 B98,Southampton,8.158,No
+68,69,Miss,Erna Alexandra,Andersson,No,17,female,1,3,NUM,3101281,B96 B98,Southampton,7.925,Yes
+69,70,Mr,Vincenz,Kink,No,26,male,1,3,NUM,315151,B96 B98,Southampton,8.662,No
+70,71,Mr,Stephen Curnow,Jenkin,No,32,male,1,2,CA,33111,B96 B98,Southampton,10.5,No
+71,72,Miss,Lillian Amy,Goodwin,No,16,female,6,3,CA,2144,B96 B98,Southampton,46.9,No
+72,73,Mr,Ambrose Jr,Hood,No,21,male,5,2,SOC,14879,B96 B98,Southampton,65.634,No
+73,74,Mr,Apostolos,Chronopoulos,No,26,male,1,3,NUM,2680,B96 B98,Cherbourg,14.454,No
+74,75,Mr,Lee,Bing,No,32,male,7,3,NUM,1601,B96 B98,Southampton,56.496,Yes
+75,76,Mr,Sigurd Hansen,Moen,No,25,male,1,3,NUM,348123,F G73,Southampton,7.65,No
+76,77,Mr,Ivan,Staneff,No,30,male,1,3,NUM,349208,B96 B98,Southampton,7.896,No
+77,78,Mr,Rahamin Haim,Moutal,No,30,male,1,3,NUM,374746,B96 B98,Southampton,8.05,No
+78,79,Master,Alden Gates,Caldwell,No,3,male,2,2,NUM,248738,B96 B98,Southampton,29.0,Yes
+79,80,Miss,Elizabeth,Dowdell,No,30,female,2,3,NUM,364516,B96 B98,Southampton,12.475,Yes
+80,81,Mr,Achille,Waelens,No,22,male,1,3,NUM,345767,B96 B98,Southampton,9.0,No
+81,82,Mr,Jan Baptist,Sheerlinck,No,29,male,1,3,NUM,345779,B96 B98,Southampton,9.5,Yes
+82,83,Miss,Brigdet Delia,McDermott,No,30,female,1,3,NUM,330932,B96 B98,Queenstown,7.788,Yes
+83,84,Mr,Francisco M,Carrau,No,28,male,1,1,NUM,113059,B96 B98,Southampton,47.1,No
+84,85,Miss,Bertha,Ilett,No,17,female,1,2,SOC,14885,B96 B98,Southampton,10.5,Yes
+85,86,Mrs,Karl Alfred,Backstrom,Maria Mathilda Gustafsson,33,female,2,3,NUM,3101278,B96 B98,Southampton,15.85,Yes
+86,87,Mr,William Neal,Ford,No,16,male,4,3,WC,6608,B96 B98,Southampton,34.375,No
+87,88,Mr,Selman Francis,Slocovski,No,30,male,1,3,SOTONOQ,392086,B96 B98,Southampton,8.05,No
+88,89,Miss,Mabel Helen,Fortune,No,23,female,4,1,NUM,19950,C23 C25 C27,Southampton,65.634,Yes
+89,90,Mr,Francesco,Celotti,No,24,male,1,3,NUM,343275,B96 B98,Southampton,8.05,No
+90,91,Mr,Emil,Christmann,No,29,male,1,3,NUM,343276,B96 B98,Southampton,8.05,No
+91,92,Mr,Paul Edvin,Andreasson,No,20,male,1,3,NUM,347466,B96 B98,Southampton,7.854,No
+92,93,Mr,Herbert Fuller,Chaffee,No,46,male,1,1,WEP,5734,E31,Southampton,61.175,No
+93,94,Mr,Bertram Frank,Dean,No,26,male,2,3,CA,2315,B96 B98,Southampton,20.575,No
+94,95,Mr,Daniel,Coxon,No,54,male,1,3,NUM,364500,B96 B98,Southampton,7.25,No
+95,96,Mr,Charles Joseph,Shorney,No,30,male,1,3,NUM,374910,B96 B98,Southampton,8.05,No
+96,97,Mr,George B,Goldschmidt,No,54,male,1,1,PC,17754,A5,Cherbourg,34.654,No
+97,98,Mr,William Bertram,Greenfield,No,23,male,1,1,PC,17759,D10 D12,Cherbourg,63.358,Yes
+98,99,Mrs,John T,Doling,Ada Julia Bone,34,female,2,2,NUM,231919,B96 B98,Southampton,23.0,Yes
+99,100,Mr,Sinai,Kantor,No,34,male,2,2,NUM,244367,B96 B98,Southampton,26.0,No
+100,101,Miss,Matilda,Petranec,No,28,female,1,3,NUM,349245,B96 B98,Southampton,7.896,No
+101,102,Mr,Pastcho,Petroff,"""Pentcho""",30,male,1,3,NUM,349215,B96 B98,Southampton,7.896,No
+102,103,Mr,Richard Frasar,White,No,21,male,2,1,NUM,35281,D26,Southampton,65.634,No
+103,104,Mr,Gustaf Joel,Johansson,No,33,male,1,3,NUM,7540,B96 B98,Southampton,8.654,No
+104,105,Mr,Anders Vilhelm,Gustafsson,No,37,male,1,3,NUM,3101276,B96 B98,Southampton,7.925,No
+105,106,Mr,Stoytcho,Mionoff,No,28,male,1,3,NUM,349207,B96 B98,Southampton,7.896,No
+106,107,Miss,Anna Kristine,Salkjelsvik,No,21,female,1,3,NUM,343120,B96 B98,Southampton,7.65,Yes
+107,108,Mr,Albert Johan,Moss,No,30,male,1,3,NUM,312991,B96 B98,Southampton,7.775,Yes
+108,109,Mr,Tido,Rekic,No,38,male,1,3,NUM,349249,B96 B98,Southampton,7.896,No
+109,110,Miss,Bertha,Moran,No,30,female,3,3,NUM,371110,B96 B98,Queenstown,24.15,Yes
+110,111,Mr,Walter Chamberlain,Porter,No,47,male,2,1,NUM,110465,C110,Southampton,52.0,No
+111,112,Miss,Hileni,Zabour,No,14,female,2,3,NUM,2665,B96 B98,Cherbourg,14.454,No
+112,113,Mr,David John,Barton,No,22,male,1,3,NUM,324669,B96 B98,Southampton,8.05,No
+113,114,Miss,Katriina,Jussila,No,20,female,1,3,NUM,4136,B96 B98,Southampton,9.825,No
+114,115,Miss,Malake,Attalah,No,17,female,2,3,NUM,2627,B96 B98,Cherbourg,14.458,No
+115,116,Mr,Edvard,Pekoniemi,No,21,male,1,3,STONO,2,B96 B98,Southampton,7.925,No
+116,117,Mr,Patrick,Connors,No,54,male,1,3,NUM,370369,B96 B98,Queenstown,7.75,No
+117,118,Mr,William John Robert,Turpin,No,29,male,2,2,NUM,11668,B96 B98,Southampton,21.0,No
+118,119,Mr,Quigg Edmond,Baxter,No,24,male,2,1,PC,17558,B58 B60,Cherbourg,65.634,No
+119,120,Miss,Ellis Anna Maria,Andersson,No,3,female,7,3,NUM,347082,B96 B98,Southampton,31.275,No
+120,121,Mr,Stanley George,Hickman,No,21,male,5,2,SOC,14879,B96 B98,Southampton,65.634,No
+121,122,Mr,Leonard Charles,Moore,No,30,male,1,3,A4,54510,B96 B98,Southampton,8.05,No
+122,123,Mr,Nicholas,Nasser,No,32,male,2,2,NUM,237736,B96 B98,Cherbourg,30.071,No
+123,124,Miss,Susan,Webber,No,32,female,1,2,NUM,27267,E101,Southampton,13.0,Yes
+124,125,Mr,Percival Wayland,White,No,54,male,2,1,NUM,35281,D26,Southampton,65.634,No
+125,126,Master,Elias,Nicola-Yarred,No,12,male,2,3,NUM,2651,B96 B98,Cherbourg,11.242,Yes
+126,127,Mr,Martin,McMahon,No,30,male,1,3,NUM,370372,B96 B98,Queenstown,7.75,No
+127,128,Mr,Fridtjof Arne,Madsen,No,24,male,1,3,C,17369,B96 B98,Southampton,7.142,Yes
+128,129,Miss,Anna,Peter,No,30,female,2,3,NUM,2668,F E69,Cherbourg,22.358,Yes
+129,130,Mr,Johan,Ekstrom,No,45,male,1,3,NUM,347061,B96 B98,Southampton,6.975,No
+130,131,Mr,Jozef,Drazenoic,No,33,male,1,3,NUM,349241,B96 B98,Cherbourg,7.896,No
+131,132,Mr,Domingos Fernandeo,Coelho,No,20,male,1,3,SOTONOQ,3101307,B96 B98,Southampton,7.05,No
+132,133,Mrs,Alexander A,Robins,Grace Charity Laury,47,female,1,3,A5,3337,B96 B98,Southampton,14.5,No
+133,134,Mrs,Leopold,Weisz,Mathilde Francoise Pede,29,female,1,2,NUM,228414,B96 B98,Southampton,26.0,Yes
+134,135,Mr,Samuel James Hayden,Sobey,No,25,male,1,2,CA,29178,B96 B98,Southampton,13.0,No
+135,136,Mr,Emile,Richard,No,23,male,1,2,SCPARIS,2133,B96 B98,Cherbourg,15.046,No
+136,137,Miss,Helen Monypeny,Newsom,No,19,female,1,1,NUM,11752,D47,Southampton,26.283,Yes
+137,138,Mr,Jacques Heath,Futrelle,No,37,male,2,1,NUM,113803,C123,Southampton,53.1,No
+138,139,Mr,Olaf Elon,Osen,No,16,male,2,3,NUM,7534,B96 B98,Southampton,9.217,No
+139,140,Mr,Victor,Giglio,No,24,male,2,1,PC,17593,B86,Cherbourg,65.634,No
+140,141,Mrs,Joseph,Boulos,Sultana,30,female,2,3,NUM,2678,B96 B98,Cherbourg,15.246,No
+141,142,Miss,Anna Sofia,Nysten,No,22,female,1,3,NUM,347081,B96 B98,Southampton,7.75,Yes
+142,143,Mrs,Pekka Pietari,Hakkarainen,Elin Matilda Dolck,24,female,2,3,STONO2,3101279,B96 B98,Southampton,15.85,Yes
+143,144,Mr,Jeremiah,Burke,No,19,male,1,3,NUM,365222,B96 B98,Queenstown,6.75,No
+144,145,Mr,Edgardo Samuel,Andrew,No,18,male,1,2,NUM,231945,B96 B98,Southampton,11.5,No
+145,146,Mr,Joseph Charles,Nicholls,No,19,male,2,2,CA,33112,B96 B98,Southampton,36.75,No
+146,147,Mr,August Edvard,Andersson,"""Wennerstrom""",27,male,1,3,NUM,350043,B96 B98,Southampton,7.796,Yes
+147,148,Miss,Robina Maggie,Ford,Ruby,9,female,4,3,WC,6608,B96 B98,Southampton,34.375,No
+148,149,Mr,Michel,Navratil,"""Louis M Hoffman""",36,male,3,2,NUM,230080,F2,Southampton,26.0,No
+149,150,Rare,Thomas Roussel Davids,Byles,No,42,male,1,2,NUM,244310,B96 B98,Southampton,13.0,No
+150,151,Rare,Robert James,Bateman,No,51,male,1,2,SOP,1166,B96 B98,Southampton,12.525,No
+151,152,Mrs,Thomas,Pears,Edith Wearne,22,female,2,1,NUM,113776,C2,Southampton,65.634,Yes
+152,153,Mr,Alfonzo,Meo,No,54,male,1,3,A5,11206,B96 B98,Southampton,8.05,No
+153,154,Mr,Austin Blyler,van Billiard,No,40,male,1,3,A5,851,B96 B98,Southampton,14.5,No
+154,155,Mr,Ole Martin,Olsen,No,30,male,1,3,Fa,265302,B96 B98,Southampton,7.312,No
+155,156,Mr,Charles Duane,Williams,No,51,male,1,1,PC,17597,B96 B98,Cherbourg,61.379,No
+156,157,Miss,Katherine,Gilnagh,Katie,16,female,1,3,NUM,35851,B96 B98,Queenstown,7.733,Yes
+157,158,Mr,Harry,Corn,No,30,male,1,3,SOTONOQ,392090,B96 B98,Southampton,8.05,No
+158,159,Mr,Mile,Smiljanic,No,30,male,1,3,NUM,315037,B96 B98,Southampton,8.662,No
+159,160,Master,Thomas Henry,Sage,No,30,male,7,3,CA,2343,B96 B98,Southampton,65.634,No
+160,161,Mr,John Hatfield,Cribb,No,44,male,1,3,NUM,371362,B96 B98,Southampton,16.1,No
+161,162,Mrs,James,Watt,"Elizabeth ""Bessie"" Inglis Milne",40,female,1,2,CA,33595,B96 B98,Southampton,15.75,Yes
+162,163,Mr,John Viktor,Bengtsson,No,26,male,1,3,NUM,347068,B96 B98,Southampton,7.775,No
+163,164,Mr,Jovo,Calic,No,17,male,1,3,NUM,315093,B96 B98,Southampton,8.662,No
+164,165,Master,Eino Viljami,Panula,No,3,male,6,3,NUM,3101295,B96 B98,Southampton,39.688,No
+165,166,Master,Frank John William,Goldsmith,Frankie,9,male,3,3,NUM,363291,B96 B98,Southampton,20.525,Yes
+166,167,Mrs,,Chibnall,Edith Martha Bowerman,30,female,2,1,NUM,113505,E33,Southampton,55.0,Yes
+167,168,Mrs,William,Skoog,Anna Bernhardina Karlsson,45,female,6,3,NUM,347088,B96 B98,Southampton,27.9,No
+168,169,Mr,John D,Baumann,No,30,male,1,1,PC,17318,B96 B98,Southampton,25.925,No
+169,170,Mr,Lee,Ling,No,28,male,7,3,NUM,1601,B96 B98,Southampton,56.496,No
+170,171,Mr,Wyckoff,Van der hoef,No,54,male,1,1,NUM,111240,B19,Southampton,33.5,No
+171,172,Master,Arthur,Rice,No,4,male,5,3,NUM,382652,B96 B98,Queenstown,29.125,No
+172,173,Miss,Eleanor Ileen,Johnson,No,3,female,3,3,NUM,347742,B96 B98,Southampton,11.133,Yes
+173,174,Mr,Antti Wilhelm,Sivola,No,21,male,1,3,STONO,2,B96 B98,Southampton,7.925,No
+174,175,Mr,James Clinch,Smith,No,54,male,1,1,NUM,17764,A7,Cherbourg,30.696,No
+175,176,Mr,Klas Albin,Klasen,No,18,male,1,3,NUM,350404,B96 B98,Southampton,7.854,No
+176,177,Master,Henry Forbes,Lefebre,No,30,male,4,3,NUM,4133,B96 B98,Southampton,25.467,No
+177,178,Miss,Ann Elizabeth,Isham,No,50,female,1,1,PC,17595,C49,Cherbourg,28.712,No
+178,179,Mr,Reginald,Hale,No,30,male,1,2,NUM,250653,B96 B98,Southampton,13.0,No
+179,180,Mr,Lionel,Leonard,No,36,male,4,3,NUM,LINE,B96 B98,Southampton,0.0,No
+180,181,Miss,Constance Gladys,Sage,No,30,female,7,3,CA,2343,B96 B98,Southampton,65.634,No
+181,182,Mr,Rene,Pernot,No,30,male,1,2,SCPARIS,2131,B96 B98,Cherbourg,15.05,No
+182,183,Master,Clarence Gustaf Hugo,Asplund,No,9,male,4,3,NUM,347077,B96 B98,Southampton,31.388,No
+183,184,Master,Richard F,Becker,No,3,male,2,2,NUM,230136,F4,Southampton,39.0,Yes
+184,185,Miss,Luise Gretchen,Kink-Heilmann,No,4,female,1,3,NUM,315153,B96 B98,Southampton,22.025,Yes
+185,186,Mr,Hugh Roscoe,Rood,No,30,male,1,1,NUM,113767,A32,Southampton,50.0,No
+186,187,Mrs,Thomas,O'Brien,"Johanna ""Hannah"" Godfrey",30,female,2,3,NUM,370365,B96 B98,Queenstown,15.5,Yes
+187,188,Mr,Charles Hallace,Romaine,"""Mr C Rolmane""",45,male,1,1,NUM,111428,B96 B98,Southampton,26.55,Yes
+188,189,Mr,John,Bourke,No,40,male,2,3,NUM,364849,B96 B98,Queenstown,15.5,No
+189,190,Mr,Stjepan,Turcin,No,36,male,1,3,NUM,349247,B96 B98,Southampton,7.896,No
+190,191,Mrs,,Pinsky,Rosa,32,female,1,2,NUM,234604,B96 B98,Southampton,13.0,Yes
+191,192,Mr,William,Carbines,No,19,male,1,2,NUM,28424,B96 B98,Southampton,13.0,No
+192,193,Miss,Carla Christine Nielsine,Andersen-Jensen,No,19,female,1,3,NUM,350046,B96 B98,Southampton,7.854,Yes
+193,194,Master,Michel M,Navratil,No,3,male,3,2,NUM,230080,F2,Southampton,26.0,Yes
+194,195,Mrs,James Joseph,Brown,Margaret Tobin,44,female,1,1,PC,17610,B4,Cherbourg,27.721,Yes
+195,196,Miss,Elise,Lurette,No,54,female,2,1,PC,17569,B80,Cherbourg,65.634,Yes
+196,197,Mr,Robert,Mernagh,No,30,male,1,3,NUM,368703,B96 B98,Queenstown,7.75,No
+197,198,Mr,Karl Siegwart Andreas,Olsen,No,42,male,1,3,NUM,4579,B96 B98,Southampton,8.404,No
+198,199,Miss,Margaret,Madigan,Maggie,30,female,1,3,NUM,370370,B96 B98,Queenstown,7.75,Yes
+199,200,Miss,Henriette,Yrois,"""Mrs Harbeck""",24,female,1,2,NUM,248747,B96 B98,Southampton,13.0,No
+200,201,Mr,Nestor Cyriel,Vande Walle,No,28,male,1,3,NUM,345770,B96 B98,Southampton,9.5,No
+201,202,Mr,Frederick,Sage,No,30,male,7,3,CA,2343,B96 B98,Southampton,65.634,No
+202,203,Mr,Jakob Alfred,Johanson,No,34,male,1,3,NUM,3101264,B96 B98,Southampton,6.496,No
+203,204,Mr,Gerious,Youseff,No,46,male,1,3,NUM,2628,B96 B98,Cherbourg,7.225,No
+204,205,Mr,Gurshon,Cohen,Gus,18,male,1,3,A5,3540,B96 B98,Southampton,8.05,Yes
+205,206,Miss,Telma Matilda,Strom,No,3,female,2,3,NUM,347054,G6,Southampton,10.462,No
+206,207,Mr,Karl Alfred,Backstrom,No,32,male,2,3,NUM,3101278,B96 B98,Southampton,15.85,No
+207,208,Mr,Nassef Cassem,Albimona,No,26,male,2,3,NUM,2699,B96 B98,Cherbourg,18.788,Yes
+208,209,Miss,Helen,Carr,Ellen,16,female,1,3,NUM,367231,B96 B98,Queenstown,7.75,Yes
+209,210,Mr,Henry,Blank,No,40,male,1,1,NUM,112277,A31,Cherbourg,31.0,Yes
+210,211,Mr,Ahmed,Ali,No,24,male,1,3,SOTONOQ,3101311,B96 B98,Southampton,7.05,No
+211,212,Miss,Clear Annie,Cameron,No,35,female,1,2,FCC,13528,B96 B98,Southampton,21.0,Yes
+212,213,Mr,John Henry,Perkin,No,22,male,1,3,A5,21174,B96 B98,Southampton,7.25,No
+213,214,Mr,Hans Kristensen,Givard,No,30,male,1,2,NUM,250646,B96 B98,Southampton,13.0,No
+214,215,Mr,Philip,Kiernan,No,30,male,1,3,NUM,367229,B96 B98,Queenstown,7.75,No
+215,216,Miss,Madeleine,Newell,No,31,female,3,1,NUM,35273,D36,Cherbourg,65.634,Yes
+216,217,Miss,Eliina,Honkanen,No,27,female,1,3,STONO2,3101283,B96 B98,Southampton,7.925,Yes
+217,218,Mr,Sidney Samuel,Jacobsohn,No,42,male,2,2,NUM,243847,B96 B98,Southampton,27.0,No
+218,219,Miss,Albina,Bazzani,No,32,female,1,1,NUM,11813,D15,Cherbourg,65.634,Yes
+219,220,Mr,Walter,Harris,No,30,male,1,2,WC,14208,B96 B98,Southampton,10.5,No
+220,221,Mr,Victor Francis,Sunderland,No,16,male,1,3,SOTONOQ,392089,B96 B98,Southampton,8.05,Yes
+221,222,Mr,James H,Bracken,No,27,male,1,2,NUM,220367,B96 B98,Southampton,13.0,No
+222,223,Mr,George Henry,Green,No,51,male,1,3,NUM,21440,B96 B98,Southampton,8.05,No
+223,224,Mr,Christo,Nenkoff,No,30,male,1,3,NUM,349234,B96 B98,Southampton,7.896,No
+224,225,Mr,Frederick Maxfield,Hoyt,No,38,male,2,1,NUM,19943,C93,Southampton,65.634,Yes
+225,226,Mr,Karl Ivar Sven,Berglund,No,22,male,1,3,PP,4348,B96 B98,Southampton,9.35,No
+226,227,Mr,William John,Mellors,No,19,male,1,2,SWPP,751,B96 B98,Southampton,10.5,Yes
+227,228,Mr,John Hall,Lovell,"""Henry""",20,male,1,3,A5,21173,B96 B98,Southampton,7.25,No
+228,229,Mr,Arne Jonas,Fahlstrom,No,18,male,1,2,NUM,236171,B96 B98,Southampton,13.0,No
+229,230,Miss,Mathilde,Lefebre,No,30,female,4,3,NUM,4133,B96 B98,Southampton,25.467,No
+230,231,Mrs,Henry Birkhardt,Harris,Irene Wallach,35,female,2,1,NUM,36973,C83,Southampton,65.634,Yes
+231,232,Mr,Bengt Edvin,Larsson,No,29,male,1,3,NUM,347067,B96 B98,Southampton,7.775,No
+232,233,Mr,Ernst Adolf,Sjostedt,No,54,male,1,2,NUM,237442,B96 B98,Southampton,13.5,No
+233,234,Miss,Lillian Gertrud,Asplund,No,5,female,4,3,NUM,347077,B96 B98,Southampton,31.388,Yes
+234,235,Mr,Robert William Norman,Leyson,No,24,male,1,2,CA,29566,B96 B98,Southampton,10.5,No
+235,236,Miss,Alice Phoebe,Harknett,No,30,female,1,3,WC,6609,B96 B98,Southampton,7.55,No
+236,237,Mr,Stephen,Hold,No,44,male,1,2,NUM,26707,B96 B98,Southampton,26.0,No
+237,238,Miss,Marjorie,Collyer,Lottie,8,female,3,2,CA,31921,B96 B98,Southampton,26.25,Yes
+238,239,Mr,Frederick William,Pengelly,No,19,male,1,2,NUM,28665,B96 B98,Southampton,10.5,No
+239,240,Mr,George Henry,Hunt,No,33,male,1,2,SCOW,1585,B96 B98,Southampton,12.275,No
+240,241,Miss,Thamine,Zabour,No,30,female,2,3,NUM,2665,B96 B98,Cherbourg,14.454,No
+241,242,Miss,Katherine,Murphy,Kate,30,female,2,3,NUM,367230,B96 B98,Queenstown,15.5,Yes
+242,243,Mr,Reginald Charles,Coleridge,No,29,male,1,2,WC,14263,B96 B98,Southampton,10.5,No
+243,244,Mr,Matti Alexanteri,Maenpaa,No,22,male,1,3,STONO,2,B96 B98,Southampton,7.125,No
+244,245,Mr,Sleiman,Attalah,No,30,male,1,3,NUM,2694,B96 B98,Cherbourg,7.225,No
+245,246,Mr,William Edward,Minahan,No,44,male,2,1,NUM,19928,C78,Queenstown,65.634,No
+246,247,Miss,Agda Thorilda Viktoria,Lindahl,No,25,female,1,3,NUM,347071,B96 B98,Southampton,7.775,No
+247,248,Mrs,William,Hamalainen,Anna,24,female,2,2,NUM,250649,B96 B98,Southampton,14.5,Yes
+248,249,Mr,Richard Leonard,Beckwith,No,37,male,2,1,NUM,11751,D35,Southampton,52.554,Yes
+249,250,Rare,Ernest Courtenay,Carter,No,54,male,2,2,NUM,244252,B96 B98,Southampton,26.0,No
+250,251,Mr,James George,Reed,No,30,male,1,3,NUM,362316,B96 B98,Southampton,7.25,No
+251,252,Mrs,Wilhelm,Strom,Elna Matilda Persson,29,female,2,3,NUM,347054,G6,Southampton,10.462,No
+252,253,Mr,William Thomas,Stead,No,54,male,1,1,NUM,113514,C87,Southampton,26.55,No
+253,254,Mr,William Arthur,Lobb,No,30,male,2,3,A5,3336,B96 B98,Southampton,16.1,No
+254,255,Mrs,Viktor,Rosblom,Helena Wilhelmina,41,female,2,3,NUM,370129,B96 B98,Southampton,20.212,No
+255,256,Mrs,Darwis,Touma,Hanne Youssef Razi,29,female,1,3,NUM,2650,B96 B98,Cherbourg,15.246,Yes
+256,257,Mrs,Gertrude Maybelle,Thorne,No,30,female,1,1,PC,17585,B96 B98,Cherbourg,65.634,Yes
+257,258,Miss,Gladys,Cherry,No,30,female,3,1,NUM,110152,B77,Southampton,65.634,Yes
+258,259,Miss,Anna,Ward,No,35,female,3,1,PC,17755,B96 B98,Cherbourg,65.634,Yes
+259,260,Mrs,,Parrish,Lutie Davis,50,female,2,2,NUM,230433,B96 B98,Southampton,26.0,Yes
+260,261,Mr,Thomas,Smith,No,30,male,1,3,NUM,384461,B96 B98,Queenstown,7.75,No
+261,262,Master,Edvin Rojj Felix,Asplund,No,3,male,4,3,NUM,347077,B96 B98,Southampton,31.388,Yes
+262,263,Mr,Emil,Taussig,No,52,male,3,1,NUM,110413,E67,Southampton,65.634,No
+263,264,Mr,William,Harrison,No,40,male,1,1,NUM,112059,B94,Southampton,0.0,No
+264,265,Miss,Delia,Henry,No,30,female,1,3,NUM,382649,B96 B98,Queenstown,7.75,No
+265,266,Mr,David,Reeves,No,36,male,1,2,CA,17248,B96 B98,Southampton,10.5,No
+266,267,Mr,Ernesti Arvid,Panula,No,16,male,6,3,NUM,3101295,B96 B98,Southampton,39.688,No
+267,268,Mr,Ernst Ulrik,Persson,No,25,male,1,3,NUM,347083,B96 B98,Southampton,7.775,Yes
+268,269,Mrs,William Thompson,Graham,Edith Junkins,54,female,3,1,PC,17582,C125,Southampton,65.634,Yes
+269,270,Miss,Amelia,Bissette,No,35,female,3,1,PC,17760,C99,Southampton,65.634,Yes
+270,271,Mr,Alexander,Cairns,No,30,male,2,1,NUM,113798,B96 B98,Southampton,31.0,No
+271,272,Mr,William Henry,Tornquist,No,25,male,4,3,NUM,LINE,B96 B98,Southampton,0.0,Yes
+272,273,Mrs,,Mellinger,Elizabeth Anne Maidment,41,female,2,2,NUM,250644,B96 B98,Southampton,19.5,Yes
+273,274,Mr,Charles H,Natsch,No,37,male,1,1,PC,17596,C118,Cherbourg,29.7,No
+274,275,Miss,Hanora,Healy,Nora,30,female,1,3,NUM,370375,B96 B98,Queenstown,7.75,Yes
+275,276,Miss,Kornelia Theodosia,Andrews,No,54,female,3,1,NUM,13502,D7,Southampton,65.634,Yes
+276,277,Miss,Augusta Charlotta,Lindblom,No,45,female,1,3,NUM,347073,B96 B98,Southampton,7.75,No
+277,278,Mr,Francis,Parkes,Frank,30,male,3,2,NUM,239853,B96 B98,Southampton,0.0,No
+278,279,Master,Eric,Rice,No,7,male,5,3,NUM,382652,B96 B98,Queenstown,29.125,No
+279,280,Mrs,Stanton,Abbott,Rosa Hunt,35,female,2,3,CA,2673,B96 B98,Southampton,20.25,Yes
+280,281,Mr,Frank,Duane,No,54,male,1,3,NUM,336439,B96 B98,Queenstown,7.75,No
+281,282,Mr,Nils Johan Goransson,Olsson,No,28,male,1,3,NUM,347464,B96 B98,Southampton,7.854,No
+282,283,Mr,Alfons,de Pelsmaeker,No,16,male,1,3,NUM,345778,B96 B98,Southampton,9.5,No
+283,284,Mr,Edward Arthur,Dorking,No,19,male,1,3,A5,10482,B96 B98,Southampton,8.05,Yes
+284,285,Mr,Richard William,Smith,No,30,male,1,1,NUM,113056,A19,Southampton,26.0,No
+285,286,Mr,Ivan,Stankovic,No,33,male,1,3,NUM,349239,B96 B98,Cherbourg,8.662,No
+286,287,Mr,Theodore,de Mulder,No,30,male,1,3,NUM,345774,B96 B98,Southampton,9.5,Yes
+287,288,Mr,Penko,Naidenoff,No,22,male,1,3,NUM,349206,B96 B98,Southampton,7.896,No
+288,289,Mr,Masabumi,Hosono,No,42,male,1,2,NUM,237798,B96 B98,Southampton,13.0,Yes
+289,290,Miss,Kate,Connolly,No,22,female,1,3,NUM,370373,B96 B98,Queenstown,7.75,Yes
+290,291,Miss,Ellen,Barber,Nellie,26,female,2,1,NUM,19877,B96 B98,Southampton,65.634,Yes
+291,292,Mrs,Dickinson H,Bishop,Helen Walton,19,female,2,1,NUM,11967,B49,Cherbourg,65.634,Yes
+292,293,Mr,Rene Jacques,Levy,No,36,male,1,2,SCParis,2163,D,Cherbourg,12.875,No
+293,294,Miss,Aloisia,Haas,No,24,female,1,3,NUM,349236,B96 B98,Southampton,8.85,No
+294,295,Mr,Ivan,Mineff,No,24,male,1,3,NUM,349233,B96 B98,Southampton,7.896,No
+295,296,Mr,Ervin G,Lewy,No,30,male,1,1,PC,17612,B96 B98,Cherbourg,27.721,No
+296,297,Mr,Mansour,Hanna,No,24,male,1,3,NUM,2693,B96 B98,Cherbourg,7.229,No
+297,298,Miss,Helen Loraine,Allison,No,3,female,4,1,NUM,113781,C22 C26,Southampton,65.634,No
+298,299,Mr,Adolphe,Saalfeld,No,30,male,1,1,NUM,19988,C106,Southampton,30.5,Yes
+299,300,Mrs,James,Baxter,Helene DeLaudeniere Chaput,50,female,2,1,PC,17558,B58 B60,Cherbourg,65.634,Yes
+300,301,Miss,Anna Katherine,Kelly,Annie Kate,30,female,1,3,NUM,9234,B96 B98,Queenstown,7.75,Yes
+301,302,Mr,Bernard,McCoy,No,30,male,2,3,NUM,367226,B96 B98,Queenstown,23.25,Yes
+302,303,Mr,William Cahoone Jr,Johnson,No,19,male,4,3,NUM,LINE,B96 B98,Southampton,0.0,No
+303,304,Miss,Nora A,Keane,No,30,female,1,2,NUM,226593,E101,Queenstown,12.35,Yes
+304,305,Mr,Howard Hugh,Williams,Harry,30,male,1,3,A5,2466,B96 B98,Southampton,8.05,No
+305,306,Master,Hudson Trevor,Allison,No,3,male,4,1,NUM,113781,C22 C26,Southampton,65.634,Yes
+306,307,Miss,Margaret,Fleming,No,30,female,4,1,NUM,17421,B96 B98,Cherbourg,65.634,Yes
+307,308,Mrs,Victor de Satode,Penasco y Castellana,Maria Josefa Perez de Soto y Vallejo,17,female,2,1,PC,17758,C65,Cherbourg,65.634,Yes
+308,309,Mr,Samuel,Abelson,No,30,male,2,2,PPP,3381,B96 B98,Cherbourg,24.0,No
+309,310,Miss,Laura Mabel,Francatelli,No,30,female,2,1,PC,17485,E36,Cherbourg,56.929,Yes
+310,311,Miss,Margaret Bechstein,Hays,No,24,female,2,1,NUM,11767,C54,Cherbourg,65.634,Yes
+311,312,Miss,Emily Borie,Ryerson,No,18,female,2,1,PC,17608,B57 B59 B63 B66,Cherbourg,65.634,Yes
+312,313,Mrs,William,Lahtinen,Anna Sylfven,26,female,1,2,NUM,250651,B96 B98,Southampton,26.0,No
+313,314,Mr,Ignjac,Hendekovic,No,28,male,1,3,NUM,349243,B96 B98,Southampton,7.896,No
+314,315,Mr,Benjamin,Hart,No,43,male,3,2,FCC,13529,B96 B98,Southampton,26.25,No
+315,316,Miss,Helmina Josefina,Nilsson,No,26,female,1,3,NUM,347470,B96 B98,Southampton,7.854,Yes
+316,317,Mrs,Sinai,Kantor,Miriam Sternin,24,female,2,2,NUM,244367,B96 B98,Southampton,26.0,Yes
+317,318,Mr,Ernest,Moraweck,No,54,male,1,2,NUM,29011,B96 B98,Southampton,14.0,No
+318,319,Miss,Mary Natalie,Wick,No,31,female,2,1,NUM,36928,C7,Southampton,65.634,Yes
+319,320,Mrs,Frederic Oakley,Spedden,Margaretta Corning Stone,40,female,2,1,NUM,16966,E34,Cherbourg,65.634,Yes
+320,321,Mr,Samuel,Dennis,No,22,male,1,3,A5,21172,B96 B98,Southampton,7.25,No
+321,322,Mr,Yoto,Danoff,No,27,male,1,3,NUM,349219,B96 B98,Southampton,7.896,No
+322,323,Miss,Hilda Mary,Slayter,No,30,female,1,2,NUM,234818,B96 B98,Queenstown,12.35,Yes
+323,324,Mrs,Albert Francis,Caldwell,Sylvia Mae Harbaugh,22,female,2,2,NUM,248738,B96 B98,Southampton,29.0,Yes
+324,325,Mr,George John Jr,Sage,No,30,male,7,3,CA,2343,B96 B98,Southampton,65.634,No
+325,326,Miss,Marie Grice,Young,No,36,female,3,1,PC,17760,C32,Cherbourg,65.634,Yes
+326,327,Mr,Johan Hansen,Nysveen,No,54,male,1,3,NUM,345364,B96 B98,Southampton,6.238,No
+327,328,Mrs,,Ball,Ada E Hall,36,female,1,2,NUM,28551,D,Southampton,13.0,Yes
+328,329,Mrs,Frank John,Goldsmith,Emily Alice Brown,31,female,3,3,NUM,363291,B96 B98,Southampton,20.525,Yes
+329,330,Miss,Jean Gertrude,Hippach,No,16,female,2,1,NUM,111361,B18,Cherbourg,57.979,Yes
+330,331,Miss,Agnes,McCoy,No,30,female,2,3,NUM,367226,B96 B98,Queenstown,23.25,Yes
+331,332,Mr,Austen,Partner,No,46,male,1,1,NUM,113043,C124,Southampton,28.5,No
+332,333,Mr,George Edward,Graham,No,38,male,3,1,PC,17582,C91,Southampton,65.634,No
+333,334,Mr,Leo Edmondus,Vander Planke,No,16,male,2,3,NUM,345764,B96 B98,Southampton,18.0,No
+334,335,Mrs,Henry William,Frauenthal,Clara Heinsheimer,30,female,2,1,PC,17611,B96 B98,Southampton,65.634,Yes
+335,336,Mr,Mitto,Denkoff,No,30,male,1,3,NUM,349225,B96 B98,Southampton,7.896,No
+336,337,Mr,Thomas Clinton,Pears,No,29,male,2,1,NUM,113776,C2,Southampton,65.634,No
+337,338,Miss,Elizabeth Margaret,Burns,No,41,female,2,1,NUM,16966,E40,Cherbourg,65.634,Yes
+338,339,Mr,Karl Edwart,Dahl,No,45,male,1,3,NUM,7598,B96 B98,Southampton,8.05,Yes
+339,340,Mr,Stephen Weart,Blackwell,No,45,male,1,1,NUM,113784,T,Southampton,35.5,No
+340,341,Master,Edmond Roger,Navratil,No,3,male,3,2,NUM,230080,F2,Southampton,26.0,Yes
+341,342,Miss,Alice Elizabeth,Fortune,No,24,female,4,1,NUM,19950,C23 C25 C27,Southampton,65.634,Yes
+342,343,Mr,Erik Gustaf,Collander,No,28,male,1,2,NUM,248740,B96 B98,Southampton,13.0,No
+343,344,Mr,Charles Frederick Waddington,Sedgwick,No,25,male,1,2,NUM,244361,B96 B98,Southampton,13.0,No
+344,345,Mr,Stanley Hubert,Fox,No,36,male,1,2,NUM,229236,B96 B98,Southampton,13.0,No
+345,346,Miss,Amelia,Brown,Mildred,24,female,1,2,NUM,248733,F33,Southampton,13.0,Yes
+346,347,Miss,Marion Elsie,Smith,No,40,female,1,2,NUM,31418,B96 B98,Southampton,13.0,Yes
+347,348,Mrs,Thomas Henry,Davison,Mary E Finck,30,female,1,3,NUM,386525,B96 B98,Southampton,16.1,Yes
+348,349,Master,William Loch,Coutts,William,3,male,2,3,CA,37671,B96 B98,Southampton,15.9,Yes
+349,350,Mr,Jovan,Dimic,No,42,male,1,3,NUM,315088,B96 B98,Southampton,8.662,No
+350,351,Mr,Nils Martin,Odahl,No,23,male,1,3,NUM,7267,B96 B98,Southampton,9.225,No
+351,352,Mr,Fletcher Fellows,Williams-Lambert,No,30,male,1,1,NUM,113510,C128,Southampton,35.0,No
+352,353,Mr,Tannous,Elias,No,15,male,1,3,NUM,2695,B96 B98,Cherbourg,7.229,No
+353,354,Mr,Josef,Arnold-Franchi,No,25,male,2,3,NUM,349237,B96 B98,Southampton,17.8,No
+354,355,Mr,Wazli,Yousif,No,30,male,1,3,NUM,2647,B96 B98,Cherbourg,7.225,No
+355,356,Mr,Leo Peter,Vanden Steen,No,28,male,1,3,NUM,345783,B96 B98,Southampton,9.5,No
+356,357,Miss,Elsie Edith,Bowerman,No,22,female,2,1,NUM,113505,E33,Southampton,55.0,Yes
+357,358,Miss,Annie Clemmer,Funk,No,38,female,1,2,NUM,237671,B96 B98,Southampton,13.0,No
+358,359,Miss,Mary,McGovern,No,30,female,1,3,NUM,330931,B96 B98,Queenstown,7.879,Yes
+359,360,Miss,Helen Mary,Mockler,Ellie,30,female,1,3,NUM,330980,B96 B98,Queenstown,7.879,Yes
+360,361,Mr,Wilhelm,Skoog,No,40,male,6,3,NUM,347088,B96 B98,Southampton,27.9,No
+361,362,Mr,Sebastiano,del Carlo,No,29,male,1,2,SCPARIS,2167,B96 B98,Cherbourg,27.721,No
+362,363,Mrs,,Barbara,Catherine David,45,female,2,3,NUM,2691,B96 B98,Cherbourg,14.454,No
+363,364,Mr,Adola,Asim,No,35,male,1,3,SOTONOQ,3101310,B96 B98,Southampton,7.05,No
+364,365,Mr,Thomas,O'Brien,No,30,male,2,3,NUM,370365,B96 B98,Queenstown,15.5,No
+365,366,Mr,Mauritz Nils Martin,Adahl,No,30,male,1,3,C,7076,B96 B98,Southampton,7.25,No
+366,367,Mrs,Frank Manley,Warren,Anna Sophia Atkinson,54,female,1,1,NUM,110813,D37,Cherbourg,65.634,Yes
+367,368,Mrs,,Moussa,Mantoura Boulos,30,female,1,3,NUM,2626,B96 B98,Cherbourg,7.229,Yes
+368,369,Miss,Annie,Jermyn,No,30,female,1,3,NUM,14313,B96 B98,Queenstown,7.75,Yes
+369,370,Mrs,Leontine Pauline,Aubart,No,24,female,2,1,PC,17477,B35,Cherbourg,65.634,Yes
+370,371,Mr,George Achilles,Harder,No,25,male,1,1,NUM,11765,E50,Cherbourg,55.442,Yes
+371,372,Mr,Jakob Alfred,Wiklund,No,18,male,1,3,NUM,3101267,B96 B98,Southampton,6.496,No
+372,373,Mr,William Thomas,Beavan,No,19,male,1,3,NUM,323951,B96 B98,Southampton,8.05,No
+373,374,Mr,Sante,Ringhini,No,22,male,3,1,PC,17760,B96 B98,Cherbourg,65.634,No
+374,375,Miss,Stina Viola,Palsson,No,3,female,4,3,NUM,349909,B96 B98,Southampton,21.075,No
+375,376,Mrs,Edgar Joseph,Meyer,Leila Saks,30,female,2,1,PC,17604,B96 B98,Cherbourg,65.634,Yes
+376,377,Miss,Aurora Adelia,Landergren,No,22,female,1,3,C,7077,B96 B98,Southampton,7.25,Yes
+377,378,Mr,Harry Elkins,Widener,No,27,male,1,1,NUM,113503,C82,Cherbourg,65.634,No
+378,379,Mr,Tannous,Betros,No,20,male,1,3,NUM,2648,B96 B98,Cherbourg,4.012,No
+379,380,Mr,Karl Gideon,Gustafsson,No,19,male,1,3,NUM,347069,B96 B98,Southampton,7.775,No
+380,381,Miss,Rosalie,Bidois,No,42,female,4,1,PC,17757,B96 B98,Cherbourg,65.634,Yes
+381,382,Miss,Maria,Nakid,"""Mary""",3,female,2,3,NUM,2653,B96 B98,Cherbourg,15.742,Yes
+382,383,Mr,Juho,Tikkanen,No,32,male,1,3,STONO,2,B96 B98,Southampton,7.925,No
+383,384,Mrs,Alexander Oskar,Holverson,Mary Aline Towner,35,female,2,1,NUM,113789,B96 B98,Southampton,52.0,Yes
+384,385,Mr,Vasil,Plotcharsky,No,30,male,1,3,NUM,349227,B96 B98,Southampton,7.896,No
+385,386,Mr,Charles Henry,Davies,No,18,male,5,2,SOC,14879,B96 B98,Southampton,65.634,No
+386,387,Master,Sidney Leonard,Goodwin,No,3,male,6,3,CA,2144,B96 B98,Southampton,46.9,No
+387,388,Miss,Kate,Buss,No,36,female,1,2,NUM,27849,B96 B98,Southampton,13.0,Yes
+388,389,Mr,Matthew,Sadlier,No,30,male,1,3,NUM,367655,B96 B98,Queenstown,7.729,No
+389,390,Miss,Bertha,Lehmann,No,17,female,1,2,SC,1748,B96 B98,Cherbourg,12.0,Yes
+390,391,Mr,William Ernest,Carter,No,36,male,4,1,NUM,113760,B96 B98,Southampton,65.634,Yes
+391,392,Mr,Carl Olof,Jansson,No,21,male,1,3,NUM,350034,B96 B98,Southampton,7.796,Yes
+392,393,Mr,Johan Birger,Gustafsson,No,28,male,1,3,NUM,3101277,B96 B98,Southampton,7.925,No
+393,394,Miss,Marjorie,Newell,No,23,female,3,1,NUM,35273,D36,Cherbourg,65.634,Yes
+394,395,Mrs,Hjalmar,Sandstrom,Agnes Charlotta Bengtsson,24,female,2,3,PP,9549,G6,Southampton,16.7,Yes
+395,396,Mr,Erik,Johansson,No,22,male,1,3,NUM,350052,B96 B98,Southampton,7.796,No
+396,397,Miss,Elina,Olsson,No,31,female,1,3,NUM,350407,B96 B98,Southampton,7.854,No
+397,398,Mr,Peter David,McKane,No,46,male,2,2,NUM,28403,B96 B98,Southampton,26.0,No
+398,399,Mr,Alfred,Pain,No,23,male,1,2,NUM,244278,B96 B98,Southampton,10.5,No
+399,400,Mrs,William H,Trout,Jessie L,28,female,1,2,NUM,240929,B96 B98,Southampton,12.65,Yes
+400,401,Mr,Juha,Niskanen,No,39,male,1,3,STONO,2,B96 B98,Southampton,7.925,Yes
+401,402,Mr,John,Adams,No,26,male,1,3,NUM,341826,B96 B98,Southampton,8.05,No
+402,403,Miss,Mari Aina,Jussila,No,21,female,1,3,NUM,4137,B96 B98,Southampton,9.825,No
+403,404,Mr,Pekka Pietari,Hakkarainen,No,28,male,2,3,STONO2,3101279,B96 B98,Southampton,15.85,No
+404,405,Miss,Marija,Oreskovic,No,20,female,1,3,NUM,315096,B96 B98,Southampton,8.662,No
+405,406,Mr,Shadrach,Gale,No,34,male,1,2,NUM,28664,B96 B98,Southampton,21.0,No
+406,407,Mr,Carl/Charles Peter,Widegren,No,51,male,1,3,NUM,347064,B96 B98,Southampton,7.75,No
+407,408,Master,William Rowe,Richards,No,3,male,3,2,NUM,29106,B96 B98,Southampton,18.75,Yes
+408,409,Mr,Hans Martin Monsen,Birkeland,No,21,male,1,3,NUM,312992,B96 B98,Southampton,7.775,No
+409,410,Miss,Ida,Lefebre,No,30,female,4,3,NUM,4133,B96 B98,Southampton,25.467,No
+410,411,Mr,Todor,Sdycoff,No,30,male,1,3,NUM,349222,B96 B98,Southampton,7.896,No
+411,412,Mr,Henry,Hart,No,30,male,1,3,NUM,394140,B96 B98,Queenstown,6.858,No
+412,413,Miss,Daisy E,Minahan,No,33,female,2,1,NUM,19928,C78,Queenstown,65.634,Yes
+413,414,Mr,Alfred Fleming,Cunningham,No,30,male,3,2,NUM,239853,B96 B98,Southampton,0.0,No
+414,415,Mr,Johan Julian,Sundman,No,44,male,1,3,STONO,2,B96 B98,Southampton,7.925,Yes
+415,416,Mrs,Thomas,Meek,Annie Louise Rowley,30,female,1,3,NUM,343095,B96 B98,Southampton,8.05,No
+416,417,Mrs,James Vivian,Drew,Lulu Thorne Christian,34,female,1,2,NUM,28220,B96 B98,Southampton,32.5,Yes
+417,418,Miss,Lyyli Karoliina,Silven,No,18,female,1,2,NUM,250652,B96 B98,Southampton,13.0,Yes
+418,419,Mr,William John,Matthews,No,30,male,1,2,NUM,28228,B96 B98,Southampton,13.0,No
+419,420,Miss,Catharina,Van Impe,No,10,female,3,3,NUM,345773,B96 B98,Southampton,24.15,No
+420,421,Mr,Stanio,Gheorgheff,No,30,male,1,3,NUM,349254,B96 B98,Cherbourg,7.896,No
+421,422,Mr,David,Charters,No,21,male,1,3,A5,13032,B96 B98,Queenstown,7.733,No
+422,423,Mr,Leo,Zimmerman,No,29,male,1,3,NUM,315082,B96 B98,Southampton,7.875,No
+423,424,Mrs,Ernst Gilbert,Danbom,Anna Sigrid Maria Brogren,28,female,2,3,NUM,347080,B96 B98,Southampton,14.4,No
+424,425,Mr,Viktor Richard,Rosblom,No,18,male,2,3,NUM,370129,B96 B98,Southampton,20.212,No
+425,426,Mr,Phillippe,Wiseman,No,30,male,1,3,A4,34244,B96 B98,Southampton,7.25,No
+426,427,Mrs,Charles V,Clarke,Ada Maria Winfield,28,female,1,2,NUM,2003,B96 B98,Southampton,26.0,Yes
+427,428,Miss,Kate Florence,Phillips,"""Mrs Kate Louise Phillips Marshall""",19,female,2,2,NUM,250655,B96 B98,Southampton,26.0,Yes
+428,429,Mr,James,Flynn,No,30,male,1,3,NUM,364851,B96 B98,Queenstown,7.75,No
+429,430,Mr,Berk,Pickard,Berk Trembisky,32,male,1,3,SOTONOQ,392078,E10,Southampton,8.05,Yes
+430,431,Mr,Mauritz Hakan,Bjornstrom-Steffansson,No,28,male,1,1,NUM,110564,C52,Southampton,26.55,Yes
+431,432,Mrs,Percival,Thorneycroft,Florence Kate White,30,female,2,3,NUM,376564,B96 B98,Southampton,16.1,Yes
+432,433,Mrs,Charles Alexander,Louch,Alice Adelaide Slow,42,female,1,2,SCAH,3085,B96 B98,Southampton,26.0,Yes
+433,434,Mr,Nikolai Erland,Kallio,No,17,male,1,3,STONO,2,B96 B98,Southampton,7.125,No
+434,435,Mr,William Baird,Silvey,No,50,male,2,1,NUM,13507,E44,Southampton,55.9,No
+435,436,Miss,Lucile Polk,Carter,No,14,female,4,1,NUM,113760,B96 B98,Southampton,65.634,Yes
+436,437,Miss,Doolina Margaret,Ford,Daisy,21,female,4,3,WC,6608,B96 B98,Southampton,34.375,No
+437,438,Mrs,Sidney,Richards,Emily Hocking,24,female,3,2,NUM,29106,B96 B98,Southampton,18.75,Yes
+438,439,Mr,Mark,Fortune,No,54,male,4,1,NUM,19950,C23 C25 C27,Southampton,65.634,No
+439,440,Mr,Johan Henrik Johannesson,Kvillner,No,31,male,1,2,CA,18723,B96 B98,Southampton,10.5,No
+440,441,Mrs,Benjamin,Hart,Esther Ada Bloomfield,45,female,3,2,FCC,13529,B96 B98,Southampton,26.25,Yes
+441,442,Mr,Leon,Hampe,No,20,male,1,3,NUM,345769,B96 B98,Southampton,9.5,No
+442,443,Mr,Johan Emil,Petterson,No,25,male,1,3,NUM,347076,B96 B98,Southampton,7.775,No
+443,444,Miss,Encarnacion,Reynaldo,No,28,female,1,2,NUM,230434,B96 B98,Southampton,13.0,Yes
+444,445,Mr,Bernt,Johannesen-Bratthammer,No,30,male,1,3,NUM,65306,B96 B98,Southampton,8.113,Yes
+445,446,Master,Washington,Dodge,No,4,male,1,1,NUM,33638,A34,Southampton,65.634,Yes
+446,447,Miss,Madeleine Violet,Mellinger,No,13,female,2,2,NUM,250644,B96 B98,Southampton,19.5,Yes
+447,448,Mr,Frederic Kimber,Seward,No,34,male,1,1,NUM,113794,B96 B98,Southampton,26.55,Yes
+448,449,Miss,Marie Catherine,Baclini,No,5,female,4,3,NUM,2666,B96 B98,Cherbourg,19.258,Yes
+449,450,Mr,Arthur Godfrey,Peuchen,No,52,male,1,1,NUM,113786,C104,Southampton,30.5,Yes
+450,451,Mr,Edwy Arthur,West,No,36,male,3,2,CA,34651,B96 B98,Southampton,27.75,No
+451,452,Mr,Ingvald Olai Olsen,Hagland,No,30,male,1,3,NUM,65303,B96 B98,Southampton,19.967,No
+452,453,Mr,Benjamin Laventall,Foreman,No,30,male,1,1,NUM,113051,C111,Cherbourg,27.75,No
+453,454,Mr,Samuel L,Goldenberg,No,49,male,2,1,NUM,17453,C92,Cherbourg,65.634,Yes
+454,455,Mr,Joseph,Peduzzi,No,30,male,1,3,A5,2817,B96 B98,Southampton,8.05,No
+455,456,Mr,Ivan,Jalsevac,No,29,male,1,3,NUM,349240,B96 B98,Cherbourg,7.896,Yes
+456,457,Mr,Francis Davis,Millet,No,54,male,1,1,NUM,13509,E38,Southampton,26.55,No
+457,458,Mrs,Frederick R,Kenyon,Marion,30,female,1,1,NUM,17464,D21,Southampton,51.862,Yes
+458,459,Miss,Ellen,Toomey,No,50,female,1,2,FCC,13531,B96 B98,Southampton,10.5,Yes
+459,460,Mr,Maurice,O'Connor,No,30,male,1,3,NUM,371060,B96 B98,Queenstown,7.75,No
+460,461,Mr,Harry,Anderson,No,48,male,1,1,NUM,19952,E12,Southampton,26.55,Yes
+461,462,Mr,William,Morley,No,34,male,1,3,NUM,364506,B96 B98,Southampton,8.05,No
+462,463,Mr,Arthur H,Gee,No,47,male,1,1,NUM,111320,E63,Southampton,38.5,No
+463,464,Mr,Jacob Christian,Milling,No,48,male,1,2,NUM,234360,B96 B98,Southampton,13.0,No
+464,465,Mr,Simon,Maisner,No,30,male,1,3,AS,2816,B96 B98,Southampton,8.05,No
+465,466,Mr,Manuel Estanslas,Goncalves,No,38,male,1,3,SOTONOQ,3101306,B96 B98,Southampton,7.05,No
+466,467,Mr,William,Campbell,No,30,male,3,2,NUM,239853,B96 B98,Southampton,0.0,No
+467,468,Mr,John Montgomery,Smart,No,54,male,1,1,NUM,113792,B96 B98,Southampton,26.55,No
+468,469,Mr,James,Scanlan,No,30,male,1,3,NUM,36209,B96 B98,Queenstown,7.725,No
+469,470,Miss,Helene Barbara,Baclini,No,3,female,4,3,NUM,2666,B96 B98,Cherbourg,19.258,Yes
+470,471,Mr,Arthur,Keefe,No,30,male,1,3,NUM,323592,B96 B98,Southampton,7.25,No
+471,472,Mr,Luka,Cacic,No,38,male,1,3,NUM,315089,B96 B98,Southampton,8.662,No
+472,473,Mrs,Edwy Arthur,West,Ada Mary Worth,33,female,3,2,CA,34651,B96 B98,Southampton,27.75,Yes
+473,474,Mrs,Amin S,Jerwan,Marie Marthe Thuillard,23,female,1,2,SCAH,Basle,D,Cherbourg,13.792,Yes
+474,475,Miss,Ida Sofia,Strandberg,No,22,female,1,3,NUM,7553,B96 B98,Southampton,9.838,No
+475,476,Mr,George Quincy,Clifford,No,30,male,2,1,NUM,110465,A14,Southampton,52.0,No
+476,477,Mr,Peter Henry,Renouf,No,34,male,2,2,NUM,31027,B96 B98,Southampton,21.0,No
+477,478,Mr,Lewis Richard,Braund,No,29,male,1,3,NUM,3460,B96 B98,Southampton,7.046,No
+478,479,Mr,Nils August,Karlsson,No,22,male,1,3,NUM,350060,B96 B98,Southampton,7.521,No
+479,480,Miss,Hildur E,Hirvonen,No,3,female,1,3,NUM,3101298,B96 B98,Southampton,12.288,Yes
+480,481,Master,Harold Victor,Goodwin,No,9,male,6,3,CA,2144,B96 B98,Southampton,46.9,No
+481,482,Mr,Anthony Wood,Frost,Archie,30,male,1,2,NUM,239854,B96 B98,Southampton,0.0,No
+482,483,Mr,Richard Henry,Rouse,No,50,male,1,3,A5,3594,B96 B98,Southampton,8.05,No
+483,484,Mrs,,Turkula,Hedwig,54,female,1,3,NUM,4134,B96 B98,Southampton,9.588,Yes
+484,485,Mr,Dickinson H,Bishop,No,25,male,2,1,NUM,11967,B49,Cherbourg,65.634,Yes
+485,486,Miss,Jeannie,Lefebre,No,30,female,4,3,NUM,4133,B96 B98,Southampton,25.467,No
+486,487,Mrs,Frederick Maxfield,Hoyt,Jane Anne Forby,35,female,2,1,NUM,19943,C93,Southampton,65.634,Yes
+487,488,Mr,Edward Austin,Kent,No,54,male,1,1,NUM,11771,B37,Cherbourg,29.7,No
+488,489,Mr,Francis William,Somerton,No,30,male,1,3,A5,18509,B96 B98,Southampton,8.05,No
+489,490,Master,Eden Leslie,Coutts,Neville,9,male,2,3,CA,37671,B96 B98,Southampton,15.9,Yes
+490,491,Mr,Konrad Mathias Reiersen,Hagland,No,30,male,1,3,NUM,65304,B96 B98,Southampton,19.967,No
+491,492,Mr,Einar,Windelov,No,21,male,1,3,SOTONOQ,3101317,B96 B98,Southampton,7.25,No
+492,493,Mr,Harry Markland,Molson,No,54,male,1,1,NUM,113787,C30,Southampton,30.5,No
+493,494,Mr,Ramon,Artagaveytia,No,54,male,1,1,PC,17609,B96 B98,Cherbourg,49.504,No
+494,495,Mr,Edward Roland,Stanley,No,21,male,1,3,A4,45380,B96 B98,Southampton,8.05,No
+495,496,Mr,Gerious,Yousseff,No,30,male,2,3,NUM,2627,B96 B98,Cherbourg,14.458,No
+496,497,Miss,Elizabeth Mussey,Eustis,No,54,female,2,1,NUM,36947,D20,Cherbourg,65.634,Yes
+497,498,Mr,Frederick William,Shellard,No,30,male,1,3,CA,6212,B96 B98,Southampton,15.1,No
+498,499,Mrs,Hudson J C,Allison,Bessie Waldo Daniels,25,female,4,1,NUM,113781,C22 C26,Southampton,65.634,No
+499,500,Mr,Olof,Svensson,No,24,male,1,3,NUM,350035,B96 B98,Southampton,7.796,No
+500,501,Mr,Petar,Calic,No,17,male,1,3,NUM,315086,B96 B98,Southampton,8.662,No
+501,502,Miss,Mary,Canavan,No,21,female,1,3,NUM,364846,B96 B98,Queenstown,7.75,No
+502,503,Miss,Bridget Mary,O'Sullivan,No,30,female,1,3,NUM,330909,B96 B98,Queenstown,7.629,No
+503,504,Miss,Kristina Sofia,Laitinen,No,37,female,1,3,NUM,4135,B96 B98,Southampton,9.588,No
+504,505,Miss,Roberta,Maioni,No,16,female,3,1,NUM,110152,B79,Southampton,65.634,Yes
+505,506,Mr,Victor de Satode,Penasco y Castellana,No,18,male,2,1,PC,17758,C65,Cherbourg,65.634,No
+506,507,Mrs,Frederick Charles,Quick,Jane Richards,33,female,2,2,NUM,26360,B96 B98,Southampton,26.0,Yes
+507,508,Mr,George,Bradley,"""George Arthur Brayton""",30,male,1,1,NUM,111427,B96 B98,Southampton,26.55,Yes
+508,509,Mr,Henry Margido,Olsen,No,28,male,1,3,C,4001,B96 B98,Southampton,22.525,No
+509,510,Mr,Fang,Lang,No,26,male,7,3,NUM,1601,B96 B98,Southampton,56.496,Yes
+510,511,Mr,Eugene Patrick,Daly,No,29,male,1,3,NUM,382651,B96 B98,Queenstown,7.75,Yes
+511,512,Mr,James,Webber,No,30,male,1,3,SOTONOQ,3101316,B96 B98,Southampton,8.05,No
+512,513,Mr,James Robert,McGough,No,36,male,1,1,PC,17473,E25,Southampton,26.288,Yes
+513,514,Mrs,Martin,Rothschild,Elizabeth L. Barrett,54,female,1,1,PC,17603,B96 B98,Cherbourg,59.4,Yes
+514,515,Mr,Satio,Coleff,No,24,male,1,3,NUM,349209,B96 B98,Southampton,7.496,No
+515,516,Mr,William Anderson,Walker,No,47,male,1,1,NUM,36967,D46,Southampton,34.021,No
+516,517,Mrs,,Lemore,Amelia Milley,34,female,1,2,CA,34260,F33,Southampton,10.5,Yes
+517,518,Mr,Patrick,Ryan,No,30,male,3,3,NUM,371110,B96 B98,Queenstown,24.15,No
+518,519,Mrs,William A,Angle,"Florence ""Mary"" Agnes Hughes",36,female,1,2,NUM,226875,B96 B98,Southampton,26.0,Yes
+519,520,Mr,Stefo,Pavlovic,No,32,male,1,3,NUM,349242,B96 B98,Southampton,7.896,No
+520,521,Miss,Anne,Perreault,No,30,female,2,1,NUM,12749,B73,Southampton,65.634,Yes
+521,522,Mr,Janko,Vovk,No,22,male,1,3,NUM,349252,B96 B98,Southampton,7.896,No
+522,523,Mr,Sarkis,Lahoud,No,30,male,1,3,NUM,2624,B96 B98,Cherbourg,7.225,No
+523,524,Mrs,Louis Albert,Hippach,Ida Sophia Fischer,44,female,2,1,NUM,111361,B18,Cherbourg,57.979,Yes
+524,525,Mr,Fared,Kassem,No,30,male,1,3,NUM,2700,B96 B98,Cherbourg,7.229,No
+525,526,Mr,James,Farrell,No,40,male,1,3,NUM,367232,B96 B98,Queenstown,7.75,No
+526,527,Miss,Lucy,Ridsdale,No,50,female,1,2,WC,14258,B96 B98,Southampton,10.5,Yes
+527,528,Mr,John,Farthing,No,30,male,1,1,PC,17483,C95,Southampton,65.634,No
+528,529,Mr,Johan Werner,Salonen,No,39,male,1,3,NUM,3101296,B96 B98,Southampton,7.925,No
+529,530,Mr,Richard George,Hocking,No,23,male,1,2,NUM,29104,B96 B98,Southampton,11.5,No
+530,531,Miss,Phyllis May,Quick,No,3,female,2,2,NUM,26360,B96 B98,Southampton,26.0,Yes
+531,532,Mr,Nakli,Toufik,No,30,male,1,3,NUM,2641,B96 B98,Cherbourg,7.229,No
+532,533,Mr,Joseph Jr,Elias,No,17,male,1,3,NUM,2690,B96 B98,Cherbourg,7.229,No
+533,534,Mrs,Catherine,Peter,Catherine Rizk,30,female,2,3,NUM,2668,B96 B98,Cherbourg,22.358,Yes
+534,535,Miss,Marija,Cacic,No,30,female,1,3,NUM,315084,B96 B98,Southampton,8.662,No
+535,536,Miss,Eva Miriam,Hart,No,7,female,3,2,FCC,13529,B96 B98,Southampton,26.25,Yes
+536,537,Mr,Archibald Willingham,Butt,No,45,male,1,1,NUM,113050,B38,Southampton,26.55,No
+537,538,Miss,Bertha,LeRoy,No,30,female,2,1,PC,17761,B96 B98,Cherbourg,65.634,Yes
+538,539,Mr,Samuel Beard,Risien,No,30,male,1,3,NUM,364498,B96 B98,Southampton,14.5,No
+539,540,Miss,Hedwig Margaritha,Frolicher,No,22,female,1,1,NUM,13568,B39,Cherbourg,49.5,Yes
+540,541,Miss,Harriet R,Crosby,No,36,female,2,1,WEP,5735,B22,Southampton,65.634,Yes
+541,542,Miss,Ingeborg Constanzia,Andersson,No,9,female,7,3,NUM,347082,B96 B98,Southampton,31.275,No
+542,543,Miss,Sigrid Elisabeth,Andersson,No,11,female,7,3,NUM,347082,B96 B98,Southampton,31.275,No
+543,544,Mr,Edward,Beane,No,32,male,2,2,NUM,2908,B96 B98,Southampton,26.0,Yes
+544,545,Mr,Walter Donald,Douglas,No,50,male,2,1,PC,17761,C86,Cherbourg,65.634,No
+545,546,Mr,Arthur Ernest,Nicholson,No,54,male,1,1,NUM,693,B96 B98,Southampton,26.0,No
+546,547,Mrs,Edward,Beane,Ethel Clarke,19,female,2,2,NUM,2908,B96 B98,Southampton,26.0,Yes
+547,548,Mr,Julian,Padro y Manent,No,30,male,1,2,SCPARIS,2146,B96 B98,Cherbourg,13.862,Yes
+548,549,Mr,Frank John,Goldsmith,No,33,male,3,3,NUM,363291,B96 B98,Southampton,20.525,No
+549,550,Master,John Morgan Jr,Davies,No,8,male,2,2,CA,33112,B96 B98,Southampton,36.75,Yes
+550,551,Mr,John Borland Jr,Thayer,No,17,male,4,1,NUM,17421,C70,Cherbourg,65.634,Yes
+551,552,Mr,Percival James R,Sharp,No,27,male,1,2,NUM,244358,B96 B98,Southampton,26.0,No
+552,553,Mr,Timothy,O'Brien,No,30,male,1,3,NUM,330979,B96 B98,Queenstown,7.829,No
+553,554,Mr,Fahim,Leeni,"""Philip Zenni""",22,male,1,3,NUM,2620,B96 B98,Cherbourg,7.225,Yes
+554,555,Miss,Velin,Ohman,No,22,female,1,3,NUM,347085,B96 B98,Southampton,7.775,Yes
+555,556,Mr,George,Wright,No,54,male,1,1,NUM,113807,B96 B98,Southampton,26.55,No
+556,557,Rare,,Duff Gordon,Lucille Christiana Sutherland,48,female,1,1,NUM,11755,A16,Cherbourg,39.6,Yes
+557,558,Mr,Victor,Robbins,No,30,male,4,1,PC,17757,B96 B98,Cherbourg,65.634,No
+558,559,Mrs,Emil,Taussig,Tillie Mandelbaum,39,female,3,1,NUM,110413,E67,Southampton,65.634,Yes
+559,560,Mrs,Guillaume Joseph,de Messemaeker,Emma,36,female,1,3,NUM,345572,B96 B98,Southampton,17.4,Yes
+560,561,Mr,Thomas Rowan,Morrow,No,30,male,1,3,NUM,372622,B96 B98,Queenstown,7.75,No
+561,562,Mr,Husein,Sivic,No,40,male,1,3,NUM,349251,B96 B98,Southampton,7.896,No
+562,563,Mr,Robert Douglas,Norman,No,28,male,1,2,NUM,218629,B96 B98,Southampton,13.5,No
+563,564,Mr,John,Simmons,No,30,male,1,3,SOTONOQ,392082,B96 B98,Southampton,8.05,No
+564,565,Miss,,Meanwell,Marion Ogden,30,female,1,3,SOTONOQ,392087,B96 B98,Southampton,8.05,No
+565,566,Mr,Alfred J,Davies,No,24,male,2,3,A4,48871,B96 B98,Southampton,24.15,No
+566,567,Mr,Ilia,Stoytcheff,No,19,male,1,3,NUM,349205,B96 B98,Southampton,7.896,No
+567,568,Mrs,Nils,Palsson,Alma Cornelia Berglund,29,female,4,3,NUM,349909,B96 B98,Southampton,21.075,No
+568,569,Mr,Tannous,Doharr,No,30,male,1,3,NUM,2686,B96 B98,Cherbourg,7.229,No
+569,570,Mr,Carl,Jonsson,No,32,male,1,3,NUM,350417,B96 B98,Southampton,7.854,Yes
+570,571,Mr,George,Harris,No,54,male,1,2,SWPP,752,B96 B98,Southampton,10.5,Yes
+571,572,Mrs,Edward Dale,Appleton,Charlotte Lamson,53,female,1,1,NUM,11769,C101,Southampton,51.479,Yes
+572,573,Mr,John Irwin,Flynn,"""Irving""",36,male,1,1,PC,17474,E25,Southampton,26.388,Yes
+573,574,Miss,Mary,Kelly,No,30,female,1,3,NUM,14312,B96 B98,Queenstown,7.75,Yes
+574,575,Mr,Alfred George John,Rush,No,16,male,1,3,A4,20589,B96 B98,Southampton,8.05,No
+575,576,Mr,George,Patchett,No,19,male,2,3,NUM,358585,B96 B98,Southampton,14.5,No
+576,577,Miss,Ethel,Garside,No,34,female,1,2,NUM,243880,B96 B98,Southampton,13.0,Yes
+577,578,Mrs,William Baird,Silvey,Alice Munger,39,female,2,1,NUM,13507,E44,Southampton,55.9,Yes
+578,579,Mrs,Joseph,Caram,Maria Elias,30,female,1,3,NUM,2689,B96 B98,Cherbourg,14.458,No
+579,580,Mr,Eiriik,Jussila,No,32,male,1,3,STONO,2,B96 B98,Southampton,7.925,Yes
+580,581,Miss,Julie Rachel,Christy,No,25,female,1,2,NUM,237789,B96 B98,Southampton,30.0,Yes
+581,582,Mrs,John Borland,Thayer,Marian Longstreth Morris,39,female,4,1,NUM,17421,C68,Cherbourg,65.634,Yes
+582,583,Mr,William James,Downton,No,54,male,2,2,NUM,28403,B96 B98,Southampton,26.0,No
+583,584,Mr,John Hugo,Ross,No,36,male,1,1,NUM,13049,A10,Cherbourg,40.125,No
+584,585,Mr,Uscher,Paulner,No,30,male,1,3,NUM,3411,B96 B98,Cherbourg,8.712,No
+585,586,Miss,Ruth,Taussig,No,18,female,3,1,NUM,110413,E68,Southampton,65.634,Yes
+586,587,Mr,John Denzil,Jarvis,No,47,male,1,2,NUM,237565,B96 B98,Southampton,15.0,No
+587,588,Mr,Maxmillian,Frolicher-Stehli,No,54,male,1,1,NUM,13567,B41,Cherbourg,65.634,Yes
+588,589,Mr,Eliezer,Gilinski,No,22,male,1,3,NUM,14973,B96 B98,Southampton,8.05,No
+589,590,Mr,Joseph,Murdlin,No,30,male,1,3,A5,3235,B96 B98,Southampton,8.05,No
+590,591,Mr,Matti,Rintamaki,No,35,male,1,3,STONO,2,B96 B98,Southampton,7.125,No
+591,592,Mrs,Walter Bertram,Stephenson,Martha Eustis,52,female,2,1,NUM,36947,D20,Cherbourg,65.634,Yes
+592,593,Mr,William James,Elsbury,No,47,male,1,3,A5,3902,B96 B98,Southampton,7.25,No
+593,594,Miss,Mary,Bourke,No,30,female,1,3,NUM,364848,B96 B98,Queenstown,7.75,No
+594,595,Mr,John Henry,Chapman,No,37,male,1,2,SCAH,29037,B96 B98,Southampton,26.0,No
+595,596,Mr,Jean Baptiste,Van Impe,No,36,male,3,3,NUM,345773,B96 B98,Southampton,24.15,No
+596,597,Miss,Jessie Wills,Leitch,No,30,female,3,2,NUM,248727,B96 B98,Southampton,33.0,Yes
+597,598,Mr,Alfred,Johnson,No,49,male,4,3,NUM,LINE,B96 B98,Southampton,0.0,No
+598,599,Mr,Hanna,Boulos,No,30,male,1,3,NUM,2664,B96 B98,Cherbourg,7.225,No
+599,600,Mr,Cosmo Edmund,Duff Gordon,"""Mr Morgan""",49,male,2,1,PC,17485,A20,Cherbourg,56.929,Yes
+600,601,Mrs,Sidney Samuel,Jacobsohn,Amy Frances Christy,24,female,2,2,NUM,243847,B96 B98,Southampton,27.0,Yes
+601,602,Mr,Petco,Slabenoff,No,30,male,1,3,NUM,349214,B96 B98,Southampton,7.896,No
+602,603,Mr,Charles H,Harrington,No,30,male,1,1,NUM,113796,B96 B98,Southampton,42.4,No
+603,604,Mr,Ernst William,Torber,No,44,male,1,3,NUM,364511,B96 B98,Southampton,8.05,No
+604,605,Mr,Harry,Homer,"""Mr E Haven""",35,male,1,1,NUM,111426,B96 B98,Cherbourg,26.55,Yes
+605,606,Mr,Edvard Bengtsson,Lindell,No,36,male,1,3,NUM,349910,B96 B98,Southampton,15.55,No
+606,607,Mr,Milan,Karaic,No,30,male,1,3,NUM,349246,B96 B98,Southampton,7.896,No
+607,608,Mr,Robert Williams,Daniel,No,27,male,1,1,NUM,113804,B96 B98,Southampton,30.5,Yes
+608,609,Mrs,Joseph,Laroche,Juliette Marie Louise Lafargue,22,female,3,2,SCParis,2123,B96 B98,Cherbourg,41.579,Yes
+609,610,Miss,Elizabeth W,Shutes,No,40,female,3,1,PC,17582,C125,Southampton,65.634,Yes
+610,611,Mrs,Anders Johan,Andersson,Alfrida Konstantia Brogren,39,female,7,3,NUM,347082,B96 B98,Southampton,31.275,No
+611,612,Mr,Jose Neto,Jardin,No,30,male,1,3,SOTONOQ,3101305,B96 B98,Southampton,7.05,No
+612,613,Miss,Margaret Jane,Murphy,No,30,female,2,3,NUM,367230,B96 B98,Queenstown,15.5,Yes
+613,614,Mr,John,Horgan,No,30,male,1,3,NUM,370377,B96 B98,Queenstown,7.75,No
+614,615,Mr,William Alfred,Brocklebank,No,35,male,1,3,NUM,364512,B96 B98,Southampton,8.05,No
+615,616,Miss,Alice,Herman,No,24,female,2,2,NUM,220845,B96 B98,Southampton,65.0,Yes
+616,617,Mr,Ernst Gilbert,Danbom,No,34,male,2,3,NUM,347080,B96 B98,Southampton,14.4,No
+617,618,Mrs,William Arthur,Lobb,Cordelia K Stanlick,26,female,2,3,A5,3336,B96 B98,Southampton,16.1,No
+618,619,Miss,Marion Louise,Becker,No,4,female,2,2,NUM,230136,F4,Southampton,39.0,Yes
+619,620,Mr,Lawrence,Gavey,No,26,male,1,2,NUM,31028,B96 B98,Southampton,10.5,No
+620,621,Mr,Antoni,Yasbeck,No,27,male,2,3,NUM,2659,B96 B98,Cherbourg,14.454,No
+621,622,Mr,Edwin Nelson Jr,Kimball,No,42,male,1,1,NUM,11753,D19,Southampton,52.554,Yes
+622,623,Mr,Sahid,Nakid,No,20,male,2,3,NUM,2653,B96 B98,Cherbourg,15.742,Yes
+623,624,Mr,Henry Damsgaard,Hansen,No,21,male,1,3,NUM,350029,B96 B98,Southampton,7.854,No
+624,625,Mr,David John,Bowen,Dai,21,male,2,3,NUM,54636,B96 B98,Southampton,16.1,No
+625,626,Mr,Frederick,Sutton,No,54,male,1,1,NUM,36963,D50,Southampton,32.321,No
+626,627,Rare,Charles Leonard,Kirkland,No,54,male,1,2,NUM,219533,B96 B98,Queenstown,12.35,No
+627,628,Miss,Gretchen Fiske,Longley,No,21,female,3,1,NUM,13502,D9,Southampton,65.634,Yes
+628,629,Mr,Guentcho,Bostandyeff,No,26,male,1,3,NUM,349224,B96 B98,Southampton,7.896,No
+629,630,Mr,Patrick D,O'Connell,No,30,male,1,3,NUM,334912,B96 B98,Queenstown,7.733,No
+630,631,Mr,Algernon Henry Wilson,Barkworth,No,54,male,1,1,NUM,27042,A23,Southampton,30.0,Yes
+631,632,Mr,Johan Svensson,Lundahl,No,51,male,1,3,NUM,347743,B96 B98,Southampton,7.054,No
+632,633,Mr,Max,Stahelin-Maeglin,No,32,male,1,1,NUM,13214,B50,Cherbourg,30.5,Yes
+633,634,Mr,William Henry Marsh,Parr,No,30,male,1,1,NUM,112052,B96 B98,Southampton,0.0,No
+634,635,Miss,Mabel,Skoog,No,9,female,6,3,NUM,347088,B96 B98,Southampton,27.9,No
+635,636,Miss,Mary,Davis,No,28,female,1,2,NUM,237668,B96 B98,Southampton,13.0,Yes
+636,637,Mr,Antti Gustaf,Leinonen,No,32,male,1,3,STONO,2,B96 B98,Southampton,7.925,No
+637,638,Mr,Harvey,Collyer,No,31,male,3,2,CA,31921,B96 B98,Southampton,26.25,No
+638,639,Mrs,Juha,Panula,Maria Emilia Ojala,41,female,6,3,NUM,3101295,B96 B98,Southampton,39.688,No
+639,640,Mr,Percival,Thorneycroft,No,30,male,2,3,NUM,376564,B96 B98,Southampton,16.1,No
+640,641,Mr,Hans Peder,Jensen,No,20,male,1,3,NUM,350050,B96 B98,Southampton,7.854,No
+641,642,Mrs,Emma,Sagesser,No,24,female,2,1,PC,17477,B35,Cherbourg,65.634,Yes
+642,643,Miss,Margit Elizabeth,Skoog,No,3,female,6,3,NUM,347088,B96 B98,Southampton,27.9,No
+643,644,Mr,Choong,Foo,No,30,male,7,3,NUM,1601,B96 B98,Southampton,56.496,Yes
+644,645,Miss,Eugenie,Baclini,No,3,female,4,3,NUM,2666,B96 B98,Cherbourg,19.258,Yes
+645,646,Mr,Henry Sleeper,Harper,No,48,male,3,1,PC,17572,D33,Cherbourg,65.634,Yes
+646,647,Mr,Liudevit,Cor,No,19,male,1,3,NUM,349231,B96 B98,Southampton,7.896,No
+647,648,Mr,Oberst Alfons,Simonius-Blumer,No,54,male,1,1,NUM,13213,A26,Cherbourg,35.5,Yes
+648,649,Mr,Edward,Willey,No,30,male,1,3,SOPP,751,B96 B98,Southampton,7.55,No
+649,650,Miss,Amy Zillah Elsie,Stanley,No,23,female,1,3,CA,2314,B96 B98,Southampton,7.55,Yes
+650,651,Mr,Mito,Mitkoff,No,30,male,1,3,NUM,349221,B96 B98,Southampton,7.896,No
+651,652,Miss,Elsie,Doling,No,18,female,2,2,NUM,231919,B96 B98,Southampton,23.0,Yes
+652,653,Mr,Johannes Halvorsen,Kalvik,No,21,male,1,3,NUM,8475,B96 B98,Southampton,8.433,No
+653,654,Miss,Hanora,O'Leary,Norah,30,female,1,3,NUM,330919,B96 B98,Queenstown,7.829,Yes
+654,655,Miss,Hanora,Hegarty,Nora,18,female,1,3,NUM,365226,B96 B98,Queenstown,6.75,No
+655,656,Mr,Leonard Mark,Hickman,No,24,male,5,2,SOC,14879,B96 B98,Southampton,65.634,No
+656,657,Mr,Alexander,Radeff,No,30,male,1,3,NUM,349223,B96 B98,Southampton,7.896,No
+657,658,Mrs,John,Bourke,Catherine,32,female,2,3,NUM,364849,B96 B98,Queenstown,15.5,No
+658,659,Mr,George Floyd,Eitemiller,No,23,male,1,2,NUM,29751,B96 B98,Southampton,13.0,No
+659,660,Mr,Arthur Webster,Newell,No,54,male,3,1,NUM,35273,D48,Cherbourg,65.634,No
+660,661,Mr,Henry William,Frauenthal,No,50,male,2,1,PC,17611,B96 B98,Southampton,65.634,Yes
+661,662,Mr,Mohamed,Badt,No,40,male,1,3,NUM,2623,B96 B98,Cherbourg,7.225,No
+662,663,Mr,Edward Pomeroy,Colley,No,47,male,1,1,NUM,5727,E58,Southampton,25.588,No
+663,664,Mr,Peju,Coleff,No,36,male,1,3,NUM,349210,B96 B98,Southampton,7.496,No
+664,665,Mr,Eino William,Lindqvist,No,20,male,1,3,STONO,2,B96 B98,Southampton,7.925,Yes
+665,666,Mr,Lewis,Hickman,No,32,male,5,2,SOC,14879,B96 B98,Southampton,65.634,No
+666,667,Mr,Reginald Fenton,Butler,No,25,male,1,2,NUM,234686,B96 B98,Southampton,13.0,No
+667,668,Mr,Knud Paust,Rommetvedt,No,30,male,1,3,NUM,312993,B96 B98,Southampton,7.775,No
+668,669,Mr,Jacob,Cook,No,43,male,1,3,A5,3536,B96 B98,Southampton,8.05,No
+669,670,Mrs,Elmer Zebley,Taylor,Juliet Cummins Wright,30,female,2,1,NUM,19996,C126,Southampton,52.0,Yes
+670,671,Mrs,Thomas William Solomon,Brown,Elizabeth Catherine Ford,40,female,2,2,NUM,29750,B96 B98,Southampton,39.0,Yes
+671,672,Mr,Thornton,Davidson,No,31,male,1,1,FC,12750,B71,Southampton,52.0,No
+672,673,Mr,Henry Michael,Mitchell,No,54,male,1,2,CA,24580,B96 B98,Southampton,10.5,No
+673,674,Mr,Charles,Wilhelms,No,31,male,1,2,NUM,244270,B96 B98,Southampton,13.0,Yes
+674,675,Mr,Ennis Hastings,Watson,No,30,male,1,2,NUM,239856,B96 B98,Southampton,0.0,No
+675,676,Mr,Gustaf Hjalmar,Edvardsson,No,18,male,1,3,NUM,349912,B96 B98,Southampton,7.775,No
+676,677,Mr,Frederick Charles,Sawyer,No,24,male,1,3,NUM,342826,B96 B98,Southampton,8.05,No
+677,678,Miss,Anna Sofia,Turja,No,18,female,1,3,NUM,4138,B96 B98,Southampton,9.842,Yes
+678,679,Mrs,Frederick,Goodwin,Augusta Tyler,43,female,6,3,CA,2144,B96 B98,Southampton,46.9,No
+679,680,Mr,Thomas Drake Martinez,Cardeza,No,36,male,3,1,PC,17755,B51 B53 B55,Cherbourg,65.634,Yes
+680,681,Miss,Katie,Peters,No,30,female,1,3,NUM,330935,B96 B98,Queenstown,8.137,No
+681,682,Mr,Hammad,Hassab,No,27,male,3,1,PC,17572,D49,Cherbourg,65.634,Yes
+682,683,Mr,Thor Anderson,Olsvigen,No,20,male,1,3,NUM,6563,B96 B98,Southampton,9.225,No
+683,684,Mr,Charles Edward,Goodwin,No,14,male,6,3,CA,2144,B96 B98,Southampton,46.9,No
+684,685,Mr,Thomas William Solomon,Brown,No,54,male,2,2,NUM,29750,B96 B98,Southampton,39.0,No
+685,686,Mr,Joseph Philippe Lemercier,Laroche,No,25,male,3,2,SCParis,2123,B96 B98,Cherbourg,41.579,No
+686,687,Mr,Jaako Arnold,Panula,No,14,male,6,3,NUM,3101295,B96 B98,Southampton,39.688,No
+687,688,Mr,Branko,Dakic,No,19,male,1,3,NUM,349228,B96 B98,Southampton,10.171,No
+688,689,Mr,Eberhard Thelander,Fischer,No,18,male,1,3,NUM,350036,B96 B98,Southampton,7.796,No
+689,690,Miss,Georgette Alexandra,Madill,No,15,female,3,1,NUM,24160,B5,Southampton,65.634,Yes
+690,691,Mr,Albert Adrian,Dick,No,31,male,2,1,NUM,17474,B20,Southampton,57.0,Yes
+691,692,Miss,Manca,Karun,No,4,female,1,3,NUM,349256,B96 B98,Cherbourg,13.417,Yes
+692,693,Mr,Ali,Lam,No,30,male,7,3,NUM,1601,B96 B98,Southampton,56.496,Yes
+693,694,Mr,Khalil,Saad,No,25,male,1,3,NUM,2672,B96 B98,Cherbourg,7.225,No
+694,695,Mr,John,Weir,No,54,male,1,1,NUM,113800,B96 B98,Southampton,26.55,No
+695,696,Mr,Charles Henry,Chapman,No,52,male,1,2,NUM,248731,B96 B98,Southampton,13.5,No
+696,697,Mr,James,Kelly,No,44,male,1,3,NUM,363592,B96 B98,Southampton,8.05,No
+697,698,Miss,Katherine,Mullens,Katie,30,female,1,3,NUM,35852,B96 B98,Queenstown,7.733,Yes
+698,699,Mr,John Borland,Thayer,No,49,male,4,1,NUM,17421,C68,Cherbourg,65.634,No
+699,700,Mr,Adolf Mathias Nicolai Olsen,Humblen,No,42,male,1,3,NUM,348121,F G63,Southampton,7.65,No
+700,701,Mrs,John Jacob,Astor,Madeleine Talmadge Force,18,female,4,1,PC,17757,C62 C64,Cherbourg,65.634,Yes
+701,702,Mr,Spencer Victor,Silverthorne,No,35,male,1,1,PC,17475,E24,Southampton,26.288,Yes
+702,703,Miss,Saiide,Barbara,No,18,female,2,3,NUM,2691,B96 B98,Cherbourg,14.454,No
+703,704,Mr,Martin,Gallagher,No,25,male,1,3,NUM,36864,B96 B98,Queenstown,7.742,No
+704,705,Mr,Henrik Juul,Hansen,No,26,male,1,3,NUM,350025,B96 B98,Southampton,7.854,No
+705,706,Mr,Henry Samuel,Morley,"""Mr Henry Marshall""",39,male,2,2,NUM,250655,B96 B98,Southampton,26.0,No
+706,707,Mrs,Florence,Kelly,Fannie,45,female,1,2,NUM,223596,B96 B98,Southampton,13.5,Yes
+707,708,Mr,Edward Pennington,Calderhead,No,42,male,1,1,PC,17476,E24,Southampton,26.288,Yes
+708,709,Miss,Alice,Cleaver,No,22,female,4,1,NUM,113781,B96 B98,Southampton,65.634,Yes
+709,710,Master,Halim Gonios,Moubarek,"""William George""",30,male,2,3,NUM,2661,B96 B98,Cherbourg,15.246,Yes
+710,711,Mrs,Berthe Antonine,Mayne,"""Mrs de Villiers""",24,female,1,1,PC,17482,C90,Cherbourg,49.504,Yes
+711,712,Mr,Herman,Klaber,No,30,male,1,1,NUM,113028,C124,Southampton,26.55,No
+712,713,Mr,Elmer Zebley,Taylor,No,48,male,2,1,NUM,19996,C126,Southampton,52.0,Yes
+713,714,Mr,August Viktor,Larsson,No,29,male,1,3,NUM,7545,B96 B98,Southampton,9.483,No
+714,715,Mr,Samuel,Greenberg,No,52,male,2,2,NUM,250647,B96 B98,Southampton,13.0,No
+715,716,Mr,Peter Andreas Lauritz Andersen,Soholt,No,19,male,1,3,NUM,348124,F G73,Southampton,7.65,No
+716,717,Miss,Caroline Louise,Endres,No,38,female,4,1,PC,17757,C45,Cherbourg,65.634,Yes
+717,718,Miss,Edwina Celia,Troutt,Winnie,27,female,1,2,NUM,34218,E101,Southampton,10.5,Yes
+718,719,Mr,Michael,McEvoy,No,30,male,1,3,NUM,36568,B96 B98,Queenstown,15.5,No
+719,720,Mr,Malkolm Joackim,Johnson,No,33,male,1,3,NUM,347062,B96 B98,Southampton,7.775,No
+720,721,Miss,Annie Jessie,Harper,Nina,6,female,3,2,NUM,248727,B96 B98,Southampton,33.0,Yes
+721,722,Mr,Svend Lauritz,Jensen,No,17,male,1,3,NUM,350048,B96 B98,Southampton,7.054,No
+722,723,Mr,William Henry,Gillespie,No,34,male,1,2,NUM,12233,B96 B98,Southampton,13.0,No
+723,724,Mr,Henry Price,Hodges,No,50,male,1,2,NUM,250643,B96 B98,Southampton,13.0,No
+724,725,Mr,Norman Campbell,Chambers,No,27,male,2,1,NUM,113806,E8,Southampton,53.1,Yes
+725,726,Mr,Luka,Oreskovic,No,20,male,1,3,NUM,315094,B96 B98,Southampton,8.662,No
+726,727,Mrs,Peter Henry,Renouf,Lillian Jefferys,30,female,2,2,NUM,31027,B96 B98,Southampton,21.0,Yes
+727,728,Miss,Margareth,Mannion,No,30,female,1,3,NUM,36866,B96 B98,Queenstown,7.738,Yes
+728,729,Mr,Kurt Arnold Gottfrid,Bryhl,No,25,male,1,2,NUM,236853,B96 B98,Southampton,26.0,No
+729,730,Miss,Pieta Sofia,Ilmakangas,No,25,female,1,3,STONO2,3101271,B96 B98,Southampton,7.925,No
+730,731,Miss,Elisabeth Walton,Allen,No,29,female,3,1,NUM,24160,B5,Southampton,65.634,Yes
+731,732,Mr,Houssein G N,Hassan,No,11,male,2,3,NUM,2699,B96 B98,Cherbourg,18.788,No
+732,733,Mr,Robert J,Knight,No,30,male,1,2,NUM,239855,B96 B98,Southampton,0.0,No
+733,734,Mr,William John,Berriman,No,23,male,1,2,NUM,28425,B96 B98,Southampton,13.0,No
+734,735,Mr,Moses Aaron,Troupiansky,No,23,male,1,2,NUM,233639,B96 B98,Southampton,13.0,No
+735,736,Mr,Leslie,Williams,No,28,male,2,3,NUM,54636,B96 B98,Southampton,16.1,No
+736,737,Mrs,Edward,Ford,Margaret Ann Watson,48,female,4,3,WC,6608,B96 B98,Southampton,34.375,No
+737,738,Mr,Gustave J,Lesurer,No,35,male,3,1,PC,17755,B101,Cherbourg,65.634,Yes
+738,739,Mr,Kanio,Ivanoff,No,30,male,1,3,NUM,349201,B96 B98,Southampton,7.896,No
+739,740,Mr,Minko,Nankoff,No,30,male,1,3,NUM,349218,B96 B98,Southampton,7.896,No
+740,741,Mr,Walter James,Hawksford,No,30,male,1,1,NUM,16988,D45,Southampton,30.0,Yes
+741,742,Mr,Tyrell William,Cavendish,No,36,male,2,1,NUM,19877,C46,Southampton,65.634,No
+742,743,Miss,Susan Parker,Ryerson,Suzette,21,female,2,1,PC,17608,B57 B59 B63 B66,Cherbourg,65.634,Yes
+743,744,Mr,Neal,McNamee,No,24,male,1,3,NUM,376566,B96 B98,Southampton,16.1,No
+744,745,Mr,Juho,Stranden,No,31,male,1,3,STONO,2,B96 B98,Southampton,7.925,Yes
+745,746,Mr,Edward Gifford,Crosby,No,54,male,2,1,WEP,5735,B22,Southampton,65.634,No
+746,747,Mr,Rossmore Edward,Abbott,No,16,male,2,3,CA,2673,B96 B98,Southampton,20.25,No
+747,748,Miss,Anna,Sinkkonen,No,30,female,1,2,NUM,250648,B96 B98,Southampton,13.0,Yes
+748,749,Mr,Daniel Warner,Marvin,No,19,male,1,1,NUM,113773,D30,Southampton,53.1,No
+749,750,Mr,Michael,Connaghton,No,31,male,1,3,NUM,335097,B96 B98,Queenstown,7.75,No
+750,751,Miss,Joan,Wells,No,4,female,1,2,NUM,29103,B96 B98,Southampton,23.0,Yes
+751,752,Master,Meier,Moor,No,6,male,2,3,NUM,392096,E121,Southampton,12.475,Yes
+752,753,Mr,Johannes Joseph,Vande Velde,No,33,male,1,3,NUM,345780,B96 B98,Southampton,9.5,No
+753,754,Mr,Lalio,Jonkoff,No,23,male,1,3,NUM,349204,B96 B98,Southampton,7.896,No
+754,755,Mrs,Samuel,Herman,Jane Laver,48,female,2,2,NUM,220845,B96 B98,Southampton,65.0,Yes
+755,756,Master,Viljo,Hamalainen,No,3,male,2,2,NUM,250649,B96 B98,Southampton,14.5,Yes
+756,757,Mr,August Sigfrid,Carlsson,No,28,male,1,3,NUM,350042,B96 B98,Southampton,7.796,No
+757,758,Mr,Percy Andrew,Bailey,No,18,male,1,2,NUM,29108,B96 B98,Southampton,11.5,No
+758,759,Mr,Thomas Leonard,Theobald,No,34,male,1,3,NUM,363294,B96 B98,Southampton,8.05,No
+759,760,Rare,of,Rothes,Lucy Noel Martha Dyer-Edwards,33,female,3,1,NUM,110152,B77,Southampton,65.634,Yes
+760,761,Mr,John,Garfirth,No,30,male,2,3,NUM,358585,B96 B98,Southampton,14.5,No
+761,762,Mr,Iisakki Antino Aijo,Nirva,No,41,male,1,3,SOTONO2,3101272,B96 B98,Southampton,7.125,No
+762,763,Mr,Hanna Assi,Barah,No,20,male,1,3,NUM,2663,B96 B98,Cherbourg,7.229,Yes
+763,764,Mrs,William Ernest,Carter,Lucile Polk,36,female,4,1,NUM,113760,B96 B98,Southampton,65.634,Yes
+764,765,Mr,Hans Linus,Eklund,No,16,male,1,3,NUM,347074,B96 B98,Southampton,7.775,No
+765,766,Mrs,John C,Hogeboom,Anna Andrews,51,female,3,1,NUM,13502,D11,Southampton,65.634,Yes
+766,767,Mr,Arthur Jackson,Brewe,No,30,male,1,1,NUM,112379,B96 B98,Cherbourg,39.6,No
+767,768,Miss,Mary,Mangan,No,30,female,1,3,NUM,364850,B96 B98,Queenstown,7.75,No
+768,769,Mr,Daniel J,Moran,No,30,male,3,3,NUM,371110,B96 B98,Queenstown,24.15,No
+769,770,Mr,Daniel Danielsen,Gronnestad,No,32,male,1,3,NUM,8471,B96 B98,Southampton,8.362,No
+770,771,Mr,Rene Aime,Lievens,No,24,male,1,3,NUM,345781,B96 B98,Southampton,9.5,No
+771,772,Mr,Niels Peder,Jensen,No,48,male,1,3,NUM,350047,B96 B98,Southampton,7.854,No
+772,773,Mrs,,Mack,Mary,54,female,2,2,SOPP,3,E77,Southampton,10.5,No
+773,774,Mr,Dibo,Elias,No,30,male,1,3,NUM,2674,B96 B98,Cherbourg,7.225,No
+774,775,Mrs,Elizabeth,Hocking,Eliza Needs,54,female,1,2,NUM,29105,B96 B98,Southampton,23.0,Yes
+775,776,Mr,Pehr Fabian Oliver Malkolm,Myhrman,No,18,male,1,3,NUM,347078,B96 B98,Southampton,7.75,No
+776,777,Mr,Roger,Tobin,No,30,male,1,3,NUM,383121,F38,Queenstown,7.75,No
+777,778,Miss,Virginia Ethel,Emanuel,No,5,female,2,3,NUM,364516,B96 B98,Southampton,12.475,Yes
+778,779,Mr,Thomas J,Kilgannon,No,30,male,1,3,NUM,36865,B96 B98,Queenstown,7.738,No
+779,780,Mrs,Edward Scott,Robert,Elisabeth Walton McMillan,43,female,3,1,NUM,24160,B3,Southampton,65.634,Yes
+780,781,Miss,Banoura,Ayoub,No,13,female,1,3,NUM,2687,B96 B98,Cherbourg,7.229,Yes
+781,782,Mrs,Albert Adrian,Dick,Vera Gillespie,17,female,2,1,NUM,17474,B20,Southampton,57.0,Yes
+782,783,Mr,Milton Clyde,Long,No,29,male,1,1,NUM,113501,D6,Southampton,30.0,No
+783,784,Mr,Andrew G,Johnston,No,30,male,2,3,WC,6607,B96 B98,Southampton,23.45,No
+784,785,Mr,William,Ali,No,25,male,1,3,SOTONOQ,3101312,B96 B98,Southampton,7.05,No
+785,786,Mr,Abraham,Harmer,David Lishin,25,male,1,3,NUM,374887,B96 B98,Southampton,7.25,No
+786,787,Miss,Anna Sofia,Sjoblom,No,18,female,1,3,NUM,3101265,B96 B98,Southampton,7.496,Yes
+787,788,Master,George Hugh,Rice,No,8,male,5,3,NUM,382652,B96 B98,Queenstown,29.125,No
+788,789,Master,Bertram Vere,Dean,No,3,male,2,3,CA,2315,B96 B98,Southampton,20.575,Yes
+789,790,Mr,Benjamin,Guggenheim,No,46,male,2,1,PC,17593,B82 B84,Cherbourg,65.634,No
+790,791,Mr,Andrew,Keane,Andy,30,male,1,3,NUM,12460,B96 B98,Queenstown,7.75,No
+791,792,Mr,Alfred,Gaskell,No,16,male,2,2,NUM,239865,B96 B98,Southampton,26.0,No
+792,793,Miss,Stella Anna,Sage,No,30,female,7,3,CA,2343,B96 B98,Southampton,65.634,No
+793,794,Mr,William Fisher,Hoyt,No,30,male,1,1,PC,17600,B96 B98,Cherbourg,30.696,No
+794,795,Mr,Ristiu,Dantcheff,No,25,male,1,3,NUM,349203,B96 B98,Southampton,7.896,No
+795,796,Mr,Richard,Otter,No,39,male,1,2,NUM,28213,B96 B98,Southampton,13.0,No
+796,797,Mr,Alice,Leader,Farnham,49,female,1,1,NUM,17465,D17,Southampton,25.929,Yes
+797,798,Mrs,Mara,Osman,No,31,female,1,3,NUM,349244,B96 B98,Southampton,8.683,Yes
+798,799,Mr,Yousseff,Ibrahim Shawah,No,30,male,1,3,NUM,2685,B96 B98,Cherbourg,7.229,No
+799,800,Mrs,Jean Baptiste,Van Impe,Rosalie Paula Govaert,30,female,3,3,NUM,345773,B96 B98,Southampton,24.15,No
+800,801,Mr,Martin,Ponesell,No,34,male,2,2,NUM,250647,B96 B98,Southampton,13.0,No
+801,802,Mrs,Harvey,Collyer,Charlotte Annie Tate,31,female,3,2,CA,31921,B96 B98,Southampton,26.25,Yes
+802,803,Master,William Thornton II,Carter,No,11,male,4,1,NUM,113760,B96 B98,Southampton,65.634,Yes
+803,804,Master,Assad Alexander,Thomas,No,3,male,1,3,NUM,2625,B96 B98,Cherbourg,8.517,Yes
+804,805,Mr,Oskar Arvid,Hedman,No,27,male,1,3,NUM,347089,B96 B98,Southampton,6.975,Yes
+805,806,Mr,Karl Johan,Johansson,No,31,male,1,3,NUM,347063,B96 B98,Southampton,7.775,No
+806,807,Mr,Thomas Jr,Andrews,No,39,male,1,1,NUM,112050,A36,Southampton,0.0,No
+807,808,Miss,Ellen Natalia,Pettersson,No,18,female,1,3,NUM,347087,B96 B98,Southampton,7.775,No
+808,809,Mr,August,Meyer,No,39,male,1,2,NUM,248723,B96 B98,Southampton,13.0,No
+809,810,Mrs,Norman Campbell,Chambers,Bertha Griggs,33,female,2,1,NUM,113806,E8,Southampton,53.1,Yes
+810,811,Mr,William,Alexander,No,26,male,1,3,NUM,3474,B96 B98,Southampton,7.888,No
+811,812,Mr,James,Lester,No,39,male,2,3,A4,48871,B96 B98,Southampton,24.15,No
+812,813,Mr,Richard James,Slemen,No,35,male,1,2,NUM,28206,B96 B98,Southampton,10.5,No
+813,814,Miss,Ebba Iris Alfrida,Andersson,No,6,female,7,3,NUM,347082,B96 B98,Southampton,31.275,No
+814,815,Mr,Ernest Portage,Tomlin,No,30,male,1,3,NUM,364499,B96 B98,Southampton,8.05,No
+815,816,Mr,Richard,Fry,No,30,male,1,1,NUM,112058,B102,Southampton,0.0,No
+816,817,Miss,Wendla Maria,Heininen,No,23,female,1,3,STONO2,3101290,B96 B98,Southampton,7.925,No
+817,818,Mr,Albert,Mallet,No,31,male,2,2,SCPARIS,2079,B96 B98,Cherbourg,37.004,No
+818,819,Mr,John Fredrik Alexander,Holm,No,43,male,1,3,C,7075,B96 B98,Southampton,6.45,No
+819,820,Master,Karl Thorsten,Skoog,No,10,male,6,3,NUM,347088,B96 B98,Southampton,27.9,No
+820,821,Mrs,Charles Melville,Hays,Clara Jennings Gregg,52,female,2,1,NUM,12749,B69,Southampton,65.634,Yes
+821,822,Mr,Nikola,Lulic,No,27,male,1,3,NUM,315098,B96 B98,Southampton,8.662,Yes
+822,823,Mr,John George,Reuchlin,No,38,male,1,1,NUM,19972,B96 B98,Southampton,0.0,No
+823,824,Mrs,,Moor,Beila,27,female,2,3,NUM,392096,E121,Southampton,12.475,Yes
+824,825,Master,Urho Abraham,Panula,No,3,male,6,3,NUM,3101295,B96 B98,Southampton,39.688,No
+825,826,Mr,John,Flynn,No,30,male,1,3,NUM,368323,B96 B98,Queenstown,6.95,No
+826,827,Mr,Len,Lam,No,30,male,7,3,NUM,1601,B96 B98,Southampton,56.496,No
+827,828,Master,Andre,Mallet,No,3,male,2,2,SCPARIS,2079,B96 B98,Cherbourg,37.004,Yes
+828,829,Mr,Thomas Joseph,McCormack,No,30,male,1,3,NUM,367228,B96 B98,Queenstown,7.75,Yes
+829,830,Mrs,George Nelson,Stone,Martha Evelyn,54,female,2,1,NUM,113572,B28,Southampton,65.634,Yes
+830,831,Mrs,Antoni,Yasbeck,Selini Alexander,15,female,2,3,NUM,2659,B96 B98,Cherbourg,14.454,Yes
+831,832,Master,George Sibley,Richards,No,3,male,3,2,NUM,29106,B96 B98,Southampton,18.75,Yes
+832,833,Mr,Amin,Saad,No,30,male,1,3,NUM,2671,B96 B98,Cherbourg,7.229,No
+833,834,Mr,Albert,Augustsson,No,23,male,1,3,NUM,347468,B96 B98,Southampton,7.854,No
+834,835,Mr,Owen George,Allum,No,18,male,1,3,NUM,2223,B96 B98,Southampton,8.3,No
+835,836,Miss,Sara Rebecca,Compton,No,39,female,1,1,PC,17756,E49,Cherbourg,65.634,Yes
+836,837,Mr,Jakob,Pasic,No,21,male,1,3,NUM,315097,B96 B98,Southampton,8.662,No
+837,838,Mr,Maurice,Sirota,No,30,male,1,3,NUM,392092,B96 B98,Southampton,8.05,No
+838,839,Mr,Chang,Chip,No,32,male,7,3,NUM,1601,B96 B98,Southampton,56.496,Yes
+839,840,Mr,Pierre,Marechal,No,30,male,1,1,NUM,11774,C47,Cherbourg,29.7,Yes
+840,841,Mr,Ilmari Rudolf,Alhomaki,No,20,male,1,3,SOTONO2,3101287,B96 B98,Southampton,7.925,No
+841,842,Mr,Thomas Charles,Mudd,No,16,male,2,2,SOPP,3,B96 B98,Southampton,10.5,No
+842,843,Miss,Augusta,Serepeca,No,30,female,2,1,NUM,113798,B96 B98,Cherbourg,31.0,Yes
+843,844,Mr,Peter L,Lemberopolous,No,34,male,1,3,NUM,2683,B96 B98,Cherbourg,6.438,No
+844,845,Mr,Jeso,Culumovic,No,17,male,1,3,NUM,315090,B96 B98,Southampton,8.662,No
+845,846,Mr,Anthony,Abbing,No,42,male,1,3,CA,5547,B96 B98,Southampton,7.55,No
+846,847,Mr,Douglas Bullen,Sage,No,30,male,7,3,CA,2343,B96 B98,Southampton,65.634,No
+847,848,Mr,Marin,Markoff,No,35,male,1,3,NUM,349213,B96 B98,Cherbourg,7.896,No
+848,849,Rare,John,Harper,No,28,male,3,2,NUM,248727,B96 B98,Southampton,33.0,No
+849,850,Mrs,Samuel L,Goldenberg,Edwiga Grabowska,30,female,2,1,NUM,17453,C92,Cherbourg,65.634,Yes
+850,851,Master,Sigvard Harald Elias,Andersson,No,4,male,7,3,NUM,347082,B96 B98,Southampton,31.275,No
+851,852,Mr,Johan,Svensson,No,54,male,1,3,NUM,347060,B96 B98,Southampton,7.775,No
+852,853,Miss,Nourelain,Boulos,No,9,female,2,3,NUM,2678,B96 B98,Cherbourg,15.246,No
+853,854,Miss,Mary Conover,Lines,No,16,female,1,1,PC,17592,D28,Southampton,39.4,Yes
+854,855,Mrs,Ernest Courtenay,Carter,Lilian Hughes,44,female,2,2,NUM,244252,B96 B98,Southampton,26.0,No
+855,856,Mrs,Sam,Aks,Leah Rosen,18,female,1,3,NUM,392091,B96 B98,Southampton,9.35,Yes
+856,857,Mrs,George Dennick,Wick,Mary Hitchcock,45,female,2,1,NUM,36928,B96 B98,Southampton,65.634,Yes
+857,858,Mr,Peter Denis,Daly,No,51,male,1,1,NUM,113055,E17,Southampton,26.55,Yes
+858,859,Mrs,Solomon,Baclini,Latifa Qurban,24,female,4,3,NUM,2666,B96 B98,Cherbourg,19.258,Yes
+859,860,Mr,Raihed,Razi,No,30,male,1,3,NUM,2629,B96 B98,Cherbourg,7.229,No
+860,861,Mr,Claus Peter,Hansen,No,41,male,1,3,NUM,350026,B96 B98,Southampton,14.108,No
+861,862,Mr,Frederick Edward,Giles,No,21,male,1,2,NUM,28134,B96 B98,Southampton,11.5,No
+862,863,Mrs,Frederick Joel,Swift,Margaret Welles Barron,48,female,1,1,NUM,17466,D17,Southampton,25.929,Yes
+863,864,Miss,Dorothy Edith,Sage,Dolly,30,female,7,3,CA,2343,B96 B98,Southampton,65.634,No
+864,865,Mr,John William,Gill,No,24,male,1,2,NUM,233866,B96 B98,Southampton,13.0,No
+865,866,Mrs,,Bystrom,Karolina,42,female,1,2,NUM,236852,B96 B98,Southampton,13.0,Yes
+866,867,Miss,Asuncion,Duran y More,No,27,female,1,2,SCPARIS,2149,B96 B98,Cherbourg,13.858,Yes
+867,868,Mr,Washington Augustus II,Roebling,No,31,male,1,1,PC,17590,A24,Southampton,50.496,No
+868,869,Mr,Philemon,van Melkebeke,No,30,male,1,3,NUM,345777,B96 B98,Southampton,9.5,No
+869,870,Master,Harold Theodor,Johnson,No,4,male,3,3,NUM,347742,B96 B98,Southampton,11.133,Yes
+870,871,Mr,Cerin,Balkic,No,26,male,1,3,NUM,349248,B96 B98,Southampton,7.896,No
+871,872,Mrs,Richard Leonard,Beckwith,Sallie Monypeny,47,female,2,1,NUM,11751,D35,Southampton,52.554,Yes
+872,873,Mr,Frans Olof,Carlsson,No,33,male,1,1,NUM,695,B51 B53 B55,Southampton,5.0,No
+873,874,Mr,Victor,Vander Cruyssen,No,47,male,1,3,NUM,345765,B96 B98,Southampton,9.0,No
+874,875,Mrs,Samuel,Abelson,Hannah Wizosky,28,female,2,2,PPP,3381,B96 B98,Cherbourg,24.0,Yes
+875,876,Miss,Adele Kiamie,Najib,Jane,15,female,1,3,NUM,2667,B96 B98,Cherbourg,7.225,Yes
+876,877,Mr,Alfred Ossian,Gustafsson,No,20,male,2,3,NUM,7534,B96 B98,Southampton,9.846,No
+877,878,Mr,Nedelio,Petroff,No,19,male,1,3,NUM,349212,B96 B98,Southampton,7.896,No
+878,879,Mr,Kristo,Laleff,No,30,male,1,3,NUM,349217,B96 B98,Southampton,7.896,No
+879,880,Mrs,Thomas Jr,Potter,Lily Alexenia Wilson,54,female,2,1,NUM,11767,C50,Cherbourg,65.634,Yes
+880,881,Mrs,William,Shelley,Imanita Parrish Hall,25,female,2,2,NUM,230433,B96 B98,Southampton,26.0,Yes
+881,882,Mr,Johann,Markun,No,33,male,1,3,NUM,349257,B96 B98,Southampton,7.896,No
+882,883,Miss,Gerda Ulrika,Dahlberg,No,22,female,1,3,NUM,7552,B96 B98,Southampton,10.517,No
+883,884,Mr,Frederick James,Banfield,No,28,male,1,2,CASOTON,34068,B96 B98,Southampton,10.5,No
+884,885,Mr,Henry Jr,Sutehall,No,25,male,1,3,SOTONOQ,392076,B96 B98,Southampton,7.05,No
+885,886,Mrs,William,Rice,Margaret Norton,39,female,5,3,NUM,382652,B96 B98,Queenstown,29.125,No
+886,887,Rare,Juozas,Montvila,No,27,male,1,2,NUM,211536,B96 B98,Southampton,13.0,No
+887,888,Miss,Margaret Edith,Graham,No,19,female,1,1,NUM,112053,B42,Southampton,30.0,Yes
+888,889,Miss,Catherine Helen,Johnston,Carrie,30,female,2,3,WC,6607,B96 B98,Southampton,23.45,No
+889,890,Mr,Karl Howell,Behr,No,26,male,1,1,NUM,111369,C148,Cherbourg,30.0,Yes
+890,891,Mr,Patrick,Dooley,No,32,male,1,3,NUM,370376,B96 B98,Queenstown,7.75,No
